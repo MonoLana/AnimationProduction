@@ -1,0 +1,1391 @@
+Title,Genre,Subgenres,Setting,Protagonist_Demographics,Protagonist_Gender,Protagonist_Ethnicity,Main_Studio,Theme1, Theme2 ,Number_of_Episodes,Rating
+Dog of Flanders,Adventure,Drama,19th Century Belgium,Child,Male,European,Mushi Production,Childhood,Friendship,1,7.8
+Maya the Honey Bee,Adventure,Fantasy,Nature,Insect,Female,Insect,Nippon Animation,Nature,Growth,104,7.4
+Getter Robo G,Mecha,Action,Sci-Fi,Teen,Male,Japanese,Toei Animation,Robots,Teamwork,39,7.1
+La Seine no Hoshi,Historical,Romance,18th Century France,Young Adult,Female,European,Sunrise,Revolution,Romance,39,7.3
+Mobile Suit Gundam,Mecha,War,Space,Teen,Male,Japanese,Sunrise,War,Political,43,8.2
+Space Battleship Yamato,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Academy Productions,War,Hope,26,8.0
+Lupin the Third,Adventure,Comedy,Various,Adult,Male,Japanese,Tokyo Movie Shinsha,Heist,Action,23,7.9
+Rose of Versailles,Historical,Drama,18th Century France,Young Adult,Female,European,TMS Entertainment,Revolution,Romance,40,8.3
+Macross,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Tatsunoko Production,War,Music,36,8.1
+Dragon Ball,Adventure,Action,Fantasy,Child,Male,Fictional,Toei Animation,Martial Arts,Friendship,153,8.5
+Nausicaä of the Valley of the Wind,Fantasy,Adventure,Post-Apocalyptic,Teen,Female,Fictional,Topcraft,Environmentalism,War,1,8.6
+Dirty Pair,Sci-Fi,Action,Space,Adult,Female,Multi-ethnic,Sunrise,Bounty Hunters,Comedy,26,7.7
+My Neighbor Totoro,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Ghibli,Nature,Childhood,1,8.4
+Akira,Sci-Fi,Cyberpunk,Neo-Tokyo,Teen,Male,Japanese,Tokyo Movie Shinsha,Power,Society,1,8.1
+Cowboy Bebop,Sci-Fi,Action,Space,Adult,Male,Multi-ethnic,Sunrise,Bounty Hunters,Jazz,26,8.9
+Neon Genesis Evangelion,Mecha,Psychological,Post-Apocalyptic,Teen,Male,Japanese,Gainax,Existentialism,Trauma,26,8.5
+Princess Mononoke,Fantasy,Adventure,Ancient Japan,Young Adult,Female,Fictional,Studio Ghibli,Nature,Conflict,1,8.4
+Cardcaptor Sakura,Magical Girl,Fantasy,Modern Japan,Child,Female,Japanese,Madhouse,Friendship,Magic,70,8.0
+One Piece,Adventure,Action,Various,Teen,Male,Fictional,Toei Animation,Pirates,Friendship,Ongoing,8.6
+Naruto,Action,Adventure,Fantasy,Teen,Male,Fictional,Studio Pierrot,Ninja,Friendship,220,8.3
+Fullmetal Alchemist,Action,Adventure,Steampunk,Teen,Male,Fictional,Bones,Alchemy,Brotherhood,51,9.1
+Death Note,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,Madhouse,Justice,Morality,37,9.0
+Code Geass,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,50,8.7
+Clannad,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,23,8.3
+Toradora!,Romance,Comedy,School,Teen,Male,Japanese,J.C.Staff,Love,Friendship,25,8.1
+Attack on Titan,Action,Dark Fantasy,Post-Apocalyptic,Teen,Male,Fictional,Wit Studio,Survival,War,89,8.8
+Your Lie in April,Romance,Drama,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Music,Grief,22,8.6
+My Hero Academia,Action,Superhero,Modern Japan,Teen,Male,Japanese,Bones,Heroism,Friendship,Ongoing,8.5
+Demon Slayer,Action,Fantasy,Taisho Era Japan,Teen,Male,Japanese,Ufotable,Demons,Family,52,8.7
+Jujutsu Kaisen,Action,Supernatural,Modern Japan,Teen,Male,Japanese,MAPPA,Curses,Friendship,48,8.4
+Violet Evergarden,Drama,Fantasy,Post-War,Young Adult,Female,European,Kyoto Animation,Grief,Healing,13,8.7
+Ranking of Kings,Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,23,8.9
+Spy x Family,Action,Comedy,Cold War Era,Child,Female,Fictional,Wit Studio,Family,Espionage,25,8.6
+Cyberpunk: Edgerunners,Sci-Fi,Action,Cyberpunk,Adult,Male,Multi-ethnic,Trigger,Technology,Rebellion,10,8.5
+Mushoku Tensei: Jobless Reincarnation,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,Studio Bind,Reincarnation,Adventure,23,8.2
+Oshi no Ko,Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,11,8.9
+Bocchi the Rock!,Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.7
+Vinland Saga,Historical,Action,Medieval Europe,Adult,Male,European,Wit Studio,War,Revenge,24,8.8
+Chainsaw Man,Action,Horror,Modern Japan,Teen,Male,Japanese,MAPPA,Demons,Survival,12,8.6
+Title,Genre,Subgenres,Setting,Protagonist_Demographics,Protagonist_Gender,Protagonist_Ethnicity,Main_Studio,Themes,Number_of_Episodes,Rating
+Mobile Suit Gundam,Mecha,War,Space,Teen,Male,Japanese,Sunrise,War,Political,43,8.2
+Space Battleship Yamato,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Academy Productions,War,Hope,26,8.0
+Lupin the Third Part 1,Adventure,Comedy,Various,Adult,Male,Japanese,Tokyo Movie Shinsha,Heist,Action,23,7.9
+Rose of Versailles,Historical,Drama,18th Century France,Young Adult,Female,European,TMS Entertainment,Revolution,Romance,40,8.3
+Macross,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Tatsunoko Production,War,Music,36,8.1
+Dragon Ball,Adventure,Action,Fantasy,Child,Male,Fictional,Toei Animation,Martial Arts,Friendship,153,8.5
+Nausicaä of the Valley of the Wind,Fantasy,Adventure,Post-Apocalyptic,Teen,Female,Fictional,Topcraft,Environmentalism,War,1,8.6
+Dirty Pair,Sci-Fi,Action,Space,Adult,Female,Multi-ethnic,Sunrise,Bounty Hunters,Comedy,26,7.7
+My Neighbor Totoro,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Ghibli,Nature,Childhood,1,8.4
+Akira,Sci-Fi,Cyberpunk,Neo-Tokyo,Teen,Male,Japanese,Tokyo Movie Shinsha,Power,Society,1,8.1
+Cowboy Bebop,Sci-Fi,Action,Space,Adult,Male,Multi-ethnic,Sunrise,Bounty Hunters,Jazz,26,8.9
+Neon Genesis Evangelion,Mecha,Psychological,Post-Apocalyptic,Teen,Male,Japanese,Gainax,Existentialism,Trauma,26,8.5
+Princess Mononoke,Fantasy,Adventure,Ancient Japan,Young Adult,Female,Fictional,Studio Ghibli,Nature,Conflict,1,8.4
+Cardcaptor Sakura,Magical Girl,Fantasy,Modern Japan,Child,Female,Japanese,Madhouse,Friendship,Magic,70,8.0
+One Piece,Adventure,Action,Various,Teen,Male,Fictional,Toei Animation,Pirates,Friendship,Ongoing,8.6
+Naruto,Action,Adventure,Fantasy,Teen,Male,Fictional,Studio Pierrot,Ninja,Friendship,220,8.3
+Fullmetal Alchemist,Action,Adventure,Steampunk,Teen,Male,Fictional,Bones,Alchemy,Brotherhood,51,9.1
+Death Note,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,Madhouse,Justice,Morality,37,9.0
+Code Geass,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,50,8.7
+Clannad,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,23,8.3
+Toradora!,Romance,Comedy,School,Teen,Male,Japanese,J.C.Staff,Love,Friendship,25,8.1
+Attack on Titan,Action,Dark Fantasy,Post-Apocalyptic,Teen,Male,Fictional,Wit Studio,Survival,War,89,8.8
+Your Lie in April,Romance,Drama,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Music,Grief,22,8.6
+My Hero Academia,Action,Superhero,Modern Japan,Teen,Male,Japanese,Bones,Heroism,Friendship,Ongoing,8.5
+Demon Slayer,Action,Fantasy,Taisho Era Japan,Teen,Male,Japanese,Ufotable,Demons,Family,52,8.7
+Jujutsu Kaisen,Action,Supernatural,Modern Japan,Teen,Male,Japanese,MAPPA,Curses,Friendship,48,8.4
+Violet Evergarden,Drama,Fantasy,Post-War,Young Adult,Female,European,Kyoto Animation,Grief,Healing,13,8.7
+Ranking of Kings,Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,23,8.9
+Spy x Family,Action,Comedy,Cold War Era,Child,Female,Fictional,Wit Studio,Family,Espionage,25,8.6
+Cyberpunk: Edgerunners,Sci-Fi,Action,Cyberpunk,Adult,Male,Multi-ethnic,Trigger,Technology,Rebellion,10,8.5
+Mushoku Tensei: Jobless Reincarnation,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,Studio Bind,Reincarnation,Adventure,23,8.2
+Oshi no Ko,Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,11,8.9
+Bocchi the Rock!,Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.7
+Vinland Saga,Historical,Action,Medieval Europe,Adult,Male,European,Wit Studio,War,Revenge,24,8.8
+Chainsaw Man,Action,Horror,Modern Japan,Teen,Male,Japanese,MAPPA,Demons,Survival,12,8.6
+Mobile Suit Gundam,Mecha,War,Space,Teen,Male,Japanese,Sunrise,War,Political,43,8.2
+Space Battleship Yamato,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Academy Productions,War,Hope,26,8.0
+Lupin the Third Part 1,Adventure,Comedy,Various,Adult,Male,Japanese,Tokyo Movie Shinsha,Heist,Action,23,7.9
+Rose of Versailles,Historical,Drama,18th Century France,Young Adult,Female,European,TMS Entertainment,Revolution,Romance,40,8.3
+Macross,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Tatsunoko Production,War,Music,36,8.1
+Dragon Ball,Adventure,Action,Fantasy,Child,Male,Fictional,Toei Animation,Martial Arts,Friendship,153,8.5
+Nausicaä of the Valley of the Wind,Fantasy,Adventure,Post-Apocalyptic,Teen,Female,Fictional,Topcraft,Environmentalism,War,1,8.6
+Dirty Pair,Sci-Fi,Action,Space,Adult,Female,Multi-ethnic,Sunrise,Bounty Hunters,Comedy,26,7.7
+My Neighbor Totoro,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Ghibli,Nature,Childhood,1,8.4
+Akira,Sci-Fi,Cyberpunk,Neo-Tokyo,Teen,Male,Japanese,Tokyo Movie Shinsha,Power,Society,1,8.1
+Cowboy Bebop,Sci-Fi,Action,Space,Adult,Male,Multi-ethnic,Sunrise,Bounty Hunters,Jazz,26,8.9
+Neon Genesis Evangelion,Mecha,Psychological,Post-Apocalyptic,Teen,Male,Japanese,Gainax,Existentialism,Trauma,26,8.5
+Princess Mononoke,Fantasy,Adventure,Ancient Japan,Young Adult,Female,Fictional,Studio Ghibli,Nature,Conflict,1,8.4
+Cardcaptor Sakura,Magical Girl,Fantasy,Modern Japan,Child,Female,Japanese,Madhouse,Friendship,Magic,70,8.0
+One Piece,Adventure,Action,Various,Teen,Male,Fictional,Toei Animation,Pirates,Friendship,Ongoing,8.6
+Naruto,Action,Adventure,Fantasy,Teen,Male,Fictional,Studio Pierrot,Ninja,Friendship,220,8.3
+Fullmetal Alchemist,Action,Adventure,Steampunk,Teen,Male,Fictional,Bones,Alchemy,Brotherhood,51,9.1
+Death Note,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,Madhouse,Justice,Morality,37,9.0
+Code Geass,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,50,8.7
+Clannad,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,23,8.3
+Toradora!,Romance,Comedy,School,Teen,Male,Japanese,J.C.Staff,Love,Friendship,25,8.1
+Attack on Titan,Action,Dark Fantasy,Post-Apocalyptic,Teen,Male,Fictional,Wit Studio,Survival,War,89,8.8
+Your Lie in April,Romance,Drama,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Music,Grief,22,8.6
+My Hero Academia,Action,Superhero,Modern Japan,Teen,Male,Japanese,Bones,Heroism,Friendship,Ongoing,8.5
+Demon Slayer,Action,Fantasy,Taisho Era Japan,Teen,Male,Japanese,Ufotable,Demons,Family,52,8.7
+Jujutsu Kaisen,Action,Supernatural,Modern Japan,Teen,Male,Japanese,MAPPA,Curses,Friendship,48,8.4
+Violet Evergarden,Drama,Fantasy,Post-War,Young Adult,Female,European,Kyoto Animation,Grief,Healing,13,8.7
+Ranking of Kings,Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,23,8.9
+Spy x Family,Action,Comedy,Cold War Era,Child,Female,Fictional,Wit Studio,Family,Espionage,25,8.6
+Cyberpunk: Edgerunners,Sci-Fi,Action,Cyberpunk,Adult,Male,Multi-ethnic,Trigger,Technology,Rebellion,10,8.5
+Mushoku Tensei: Jobless Reincarnation,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,Studio Bind,Reincarnation,Adventure,23,8.2
+Oshi no Ko,Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,11,8.9
+Bocchi the Rock!,Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.7
+Vinland Saga,Historical,Action,Medieval Europe,Adult,Male,European,Wit Studio,War,Revenge,24,8.8
+Chainsaw Man,Action,Horror,Modern Japan,Teen,Male,Japanese,MAPPA,Demons,Survival,12,8.6
+Mobile Suit Gundam: The Witch From Mercury,Mecha,Sci-Fi,Space,Teen,Female,Fictional,Sunrise,War,Political,24,8.4
+Summer Time Rendering,Mystery,Thriller,Island,Teen,Male,Japanese,OLM,Time Loop,Supernatural,25,8.5
+Michiko & Hatchin,Action,Adventure,Fictional South America,Adult,Female,Multi-ethnic,Manglobe,Freedom,Family,22,8.2
+Samurai Champloo,Action,Adventure,Edo Period Japan,Adult,Male,Multi-ethnic,Manglobe,Hip-hop,Journey,26,8.4
+Great Pretender,Crime,Comedy,Various,Adult,Male,Multi-ethnic,Wit Studio,Con Artists,Heist,23,8.1
+Dungeon Meshi,Adventure,Fantasy,Dungeon,Adult,Multi-species,Fictional,Trigger,Cooking,Survival,24,8.3
+Yuri on Ice,Sports,Comedy,Modern,Adult,Male,Multi-ethnic,MAPPA,Figure Skating,Love,12,8.1
+Aggretsuko,Comedy,Slice of Life,Modern Japan,Adult,Female,Fictional,Fanworks,Workplace,Stress,50,7.8
+Odd Taxi,Mystery,Thriller,Modern Japan,Adult,Male,Multi-ethnic,OLM,Urban Life,Conspiracy,13,8.5
+Blue Period,Slice of Life,Art,Modern Japan,Teen,Male,Japanese,Seven Arcs,Art,Self-Discovery,12,8.0
+Initial D First Stage,Sports,Action,Japan,Teen,Male,Japanese,Gallop,Racing,Cars,26,8.1
+Hunter x Hunter (1999),Adventure,Action,Fantasy,Child,Male,Fictional,Nippon Animation,Adventure,Friendship,62,8.5
+Hunter x Hunter (2011),Adventure,Action,Fantasy,Child,Male,Fictional,Madhouse,Adventure,Friendship,148,8.9
+Monster,Mystery,Thriller,Europe,Adult,Male,German,Madhouse,Morality,Psychological,74,8.8
+Gintama,Action,Comedy,Historical,Adult,Male,Japanese,Sunrise,Satire,Action,201,9.0
+Steins;Gate,Sci-Fi,Thriller,Modern Japan,Adult,Male,Japanese,White Fox,Time Travel,Conspiracy,24,9.1
+Code Geass: Lelouch of the Rebellion R2,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,25,8.9
+Mushishi,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,26,8.7
+Erased,Mystery,Supernatural,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Time Travel,Revenge,12,8.6
+Made in Abyss,Adventure,Fantasy,Fantasy World,Child,Female,Fictional,Kinema Citrus,Exploration,Survival,13,8.5
+March Comes in like a Lion,Slice of Life,Drama,Modern Japan,Teen,Male,Japanese,Shaft,Grief,Growth,22,8.5
+Kaguya-sama: Love Is War,Romance,Comedy,School,Teen,Male,Japanese,A-1 Pictures,Love,Psychological,12,8.4
+Rascal Does Not Dream of Bunny Girl Senpai,Romance,Supernatural,Modern Japan,Teen,Male,Japanese,CloverWorks,Adolescence,Supernatural,13,8.3
+Re:Zero - Starting Life in Another World,Fantasy,Isekai,Fantasy World,Teen,Male,Fictional,White Fox,Time Loop,Survival,25,8.2
+Konosuba,Adventure,Comedy,Fantasy World,Teen,Male,Fictional,Studio Deen,Isekai,Parody,10,8.0
+Parasyte -the maxim-,Action,Horror,Modern Japan,Teen,Male,Japanese,Madhouse,Survival,Body Horror,24,8.3
+Ping Pong the Animation,Sports,Drama,Modern Japan,Teen,Male,Japanese,Tatsunoko Production,Table Tennis,Competition,11,8.6
+Devilman Crybaby,Action,Horror,Modern Japan,Adult,Male,Japanese,Science SARU,Demons,Violence,10,7.8
+The Tatami Galaxy,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Madhouse,Time Loop,Self-Discovery,11,8.5
+Kaiba,Sci-Fi,Romance,Futuristic,Adult,Male,Fictional,Madhouse,Identity,Memory,12,8.1
+Angel Beats!,Action,Supernatural,Afterlife,Teen,Male,Japanese,P.A. Works,Afterlife,Friendship,13,8.0
+Puella Magi Madoka Magica,Magical Girl,Psychological,Modern Japan,Teen,Female,Japanese,Shaft,Magic,Despair,12,8.3
+Ergo Proxy,Sci-Fi,Mystery,Dystopian,Adult,Male,Fictional,Manglobe,Identity,Philosophy,23,8.0
+Black Lagoon,Action,Crime,Southeast Asia,Adult,Female,Multi-ethnic,Madhouse,Gunfights,Morality,24,8.1
+Haikyuu!!,Sports,Comedy,School,Teen,Male,Japanese,Production I.G,Volleyball,Teamwork,25,8.7
+Kill la Kill,Action,Comedy,School,Teen,Female,Japanese,Trigger,Over the Top,Fashion,24,8.3
+Space Dandy,Sci-Fi,Comedy,Space,Adult,Male,Multi-ethnic,Bones,Adventure,Absurd,26,7.9
+A Place Further than the Universe,Adventure,Slice of Life,Antarctica,Teen,Female,Japanese,Madhouse,Friendship,Growth,13,8.4
+Showa Genroku Rakugo Shinju,Drama,Historical,Showa Era Japan,Adult,Male,Japanese,Studio Deen,Rakugo,Tradition,13,8.6
+Saga of Tanya the Evil,Action,Isekai,Fantasy World,Child,Female,German,NUT,War,Reincarnation,12,7.9
+Beastars,Drama,Slice of Life,Animal Society,Teen,Male,Fictional,Orange,Society,Acceptance,12,7.9
+Dororo,Action,Historical,Sengoku Period Japan,Teen,Male,Japanese,MAPPA,Demons,Redemption,24,8.4
+Given,Romance,Music,Modern Japan,Teen,Male,Japanese,Lerche,Music,Love,11,8.1
+Code Geass,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,50,8.7
+A Certain Scientific Railgun,Sci-Fi,Action,Modern Japan,Teen,Female,Japanese,J.C.Staff,Superpowers,Science,24,8.0
+Bakemonogatari,Mystery,Supernatural,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,15,8.3
+Berserk,Action,Dark Fantasy,Medieval World,Adult,Male,European,OLM,War,Demons,25,8.6
+Gurren Lagann,Mecha,Action,Post-Apocalyptic,Teen,Male,Fictional,Gainax,Courage,Fighting,27,8.7
+FLCL,Sci-Fi,Comedy,Suburban Japan,Teen,Male,Japanese,Gainax,Coming of Age,Absurd,6,8.0
+The Promised Neverland,Thriller,Fantasy,Orphanage,Child,Female,Fictional,CloverWorks,Escape,Survival,12,8.3
+Hyouka,Mystery,Slice of Life,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Mystery,School Life,22,8.0
+AnoHana: The Flower We Saw That Day,Drama,Supernatural,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Grief,Friendship,11,8.2
+Shigatsu wa Kimi no Uso,Romance,Drama,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Music,Grief,22,8.6
+Spice and Wolf,Adventure,Fantasy,Medieval Europe,Adult,Male,European,Brain's Base,Commerce,Romance,13,8.1
+Mushishi Zoku Shou,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,10,8.8
+Mononoke,Mystery,Horror,Feudal Japan,Adult,Male,Japanese,Toei Animation,Supernatural,Exorcism,12,8.5
+No Game No Life,Adventure,Fantasy,Alternate World,Teen,Male,Fictional,Madhouse,Gaming,Strategy,12,7.8
+Monthly Girls' Nozaki-kun,Comedy,Romance,School,Teen,Female,Japanese,Dogakobo,Romance,Parody,12,8.1
+Akatsuki no Yona,Adventure,Fantasy,Ancient Korea,Teen,Female,Fictional,Studio Pierrot,Rebellion,Romance,24,8.3
+Wolf's Rain,Adventure,Fantasy,Post-Apocalyptic,Adult,Male,Fictional,Bones,Wolves,Survival,26,7.9
+Planetes,Sci-Fi,Slice of Life,Space,Adult,Male,Japanese,Sunrise,Space Travel,Work,26,8.2
+ef: A Tale of Memories,Romance,Drama,Modern Japan,Teen,Male,Japanese,Shaft,Love,Loss,12,7.9
+Kaichou wa Maid-sama!,Romance,Comedy,School,Teen,Female,Japanese,J.C.Staff,Romance,School,26,7.8
+Daily Lives of High School Boys,Comedy,Slice of Life,School,Teen,Male,Japanese,Sunrise,Comedy,School,12,7.9
+Nana,Drama,Music,Modern Japan,Adult,Female,Japanese,Madhouse,Music,Relationships,47,8.5
+Usagi Drop,Slice of Life,Family,Modern Japan,Adult,Male,Japanese,Production I.G,Parenting,Family,11,8.1
+Grave of the Fireflies,War,Drama,WWII Japan,Child,Male,Japanese,Studio Ghibli,War,Loss,1,8.4
+Perfect Blue,Psychological,Thriller,Modern Japan,Adult,Female,Japanese,Madhouse,Identity,Obsession,1,8.1
+Paprika,Sci-Fi,Mystery,Modern Japan,Adult,Female,Japanese,Madhouse,Dreams,Psychological,1,8.1
+Texhnolyze,Sci-Fi,Cyberpunk,Dystopian,Adult,Male,Fictional,Madhouse,Technology,Humanity,22,7.8
+Legend of the Galactic Heroes,Sci-Fi,Space Opera,Space,Adult,Male,Multi-Ethnic,Artland,War,Politics,110,9.0
+Haibane Renmei,Fantasy,Slice of Life,Heaven,Young Adult,Female,Fictional,Radix,Self-Discovery,Purpose,13,8.1
+Honey and Clover,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,J.C.Staff,Art,Love,24,8.2
+Azumanga Daioh,Comedy,Slice of Life,School,Teen,Female,Japanese,J.C.Staff,Comedy,School Life,26,8.0
+School Rumble,Comedy,Romance,School,Teen,Male,Japanese,Comet,Love,School,26,7.7
+NHK ni Youkoso!,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Gonzo,Hikikomori,Anxiety,24,8.0
+Ouran High School Host Club,Comedy,Romance,School,Teen,Female,Japanese,Bones,Romance,Parody,26,7.9
+Dennou Coil,Sci-Fi,Adventure,Futuristic Japan,Child,Female,Japanese,Madhouse,Technology,Friendship,26,8.2
+Ano Natsu de Matteru,Sci-Fi,Romance,Rural Japan,Teen,Male,Japanese,J.C.Staff,Love,Friendship,12,7.8
+Kimi ni Todoke,Romance,Slice of Life,School,Teen,Female,Japanese,Production I.G,Romance,Shyness,25,8.2
+Working!!,Comedy,Slice of Life,Restaurant,Teen,Female,Japanese,A-1 Pictures,Comedy,Workplace,13,7.8
+Shirobako,Slice of Life,Work,Modern Japan,Adult,Female,Japanese,P.A. Works,Anime Industry,Dreams,24,8.4
+Grand Blue,Comedy,Slice of Life,University,Teen,Male,Japanese,Zero-G,Comedy,College Life,12,8.3
+Yuru Camp,Slice of Life,Outdoor,Modern Japan,Teen,Female,Japanese,C-Station,Camping,Friendship,12,8.2
+Asobi Asobase,Comedy,School,Modern Japan,Teen,Female,Japanese,Lerche,Comedy,School Life,12,8.1
+Kotaro Lives Alone,Slice of Life,Comedy,Modern Japan,Child,Male,Japanese,Liden Films,Childhood,Loneliness,10,8.5
+Skip Beat!,Comedy,Romance,Entertainment Industry,Teen,Female,Japanese,Hal Film Maker,Romance,Revenge,25,7.9
+K-On!,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Friendship,13,7.9
+Nichijou,Comedy,Slice of Life,School,Teen,Female,Japanese,Kyoto Animation,Absurdity,Comedy,26,8.2
+Tamako Market,Slice of Life,Comedy,Shopping District,Teen,Female,Japanese,Kyoto Animation,Daily Life,Community,12,7.8
+Clannad After Story,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,24,8.9
+Miss Kobayashi's Dragon Maid,Comedy,Fantasy,Modern Japan,Adult,Female,Fictional,Kyoto Animation,Dragons,Daily Life,13,8.1
+Liz and the Blue Bird,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Friendship,Music,1,7.9
+Fate/Zero,Action,Fantasy,Modern Japan,Adult,Male,Japanese,ufotable,War,Magic,25,8.4
+Fate/stay night: Unlimited Blade Works,Action,Fantasy,Modern Japan,Teen,Male,Japanese,ufotable,War,Magic,25,8.3
+Revue Starlight,Musical,Action,School,Teen,Female,Japanese,Kinema Citrus,Theatre,Dreams,12,7.7
+Girls' Last Tour,Adventure,Slice of Life,Post-Apocalyptic,Child,Female,Fictional,White Fox,Survival,Loneliness,12,8.1
+Natsume's Book of Friends,Supernatural,Slice of Life,Rural Japan,Teen,Male,Japanese,Brain's Base,Spirits,Healing,13,8.5
+Barakamon,Slice of Life,Comedy,Rural Japan,Adult,Male,Japanese,Kinema Citrus,Growth,Art,12,8.3
+Food Wars!,Comedy,Ecchi,Cooking,Teen,Male,Japanese,J.C.Staff,Food,Competition,24,7.9
+Log Horizon,Action,Adventure,Isekai,Adult,Male,Fictional,Satelight,Gaming,Strategy,25,7.8
+The Devil Is a Part-Timer!,Comedy,Fantasy,Modern Japan,Adult,Male,Japanese,White Fox,Demons,Working,13,7.7
+Is It Wrong to Try to Pick Up Girls in a Dungeon?,Adventure,Fantasy,Fantasy World,Teen,Male,Fictional,J.C.Staff,Adventure,Dungeons,13,7.5
+That Time I Got Reincarnated as a Slime,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,8bit,Reincarnation,Community Building,24,8.0
+My Teen Romantic Comedy SNAFU,Comedy,Romance,School,Teen,Male,Japanese,Brain's Base,Romance,Solitude,13,8.0
+Toradora!,Romance,Comedy,School,Teen,Male,Japanese,J.C.Staff,Love,Friendship,25,8.1
+Fruits Basket,Slice of Life,Romance,Modern Japan,Teen,Female,Japanese,TMS Entertainment,Family,Supernatural,26,8.2
+Welcome to the NHK,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Gonzo,Hikikomori,Anxiety,24,8.0
+Silver Spoon,Slice of Life,Comedy,Rural Japan,Teen,Male,Japanese,A-1 Pictures,Agriculture,Growth,11,7.9
+Monthly Girls' Nozaki-kun,Comedy,Romance,School,Teen,Female,Japanese,Dogakobo,Romance,Parody,12,8.1
+Bloom into You,Romance,Slice of Life,School,Teen,Female,Japanese,TROYCA,Love,Identity,13,8.1
+The Quintessential Quintuplets,Romance,Harem,School,Teen,Male,Japanese,Tezuka Productions,Romance,Comedy,12,7.6
+Ascendance of a Bookworm,Fantasy,Slice of Life,Isekai,Child,Female,Fictional,Ajia-Do,Books,Reincarnation,14,8.1
+Run with the Wind,Sports,Drama,University,Young Adult,Male,Japanese,Production I.G,Running,Friendship,23,8.7
+Aggretsuko (Season 2),Comedy,Slice of Life,Modern Japan,Adult,Female,Fictional,Fanworks,Workplace,Stress,10,7.8
+Akudama Drive,Action,Cyberpunk,Dystopian,Adult,Multi-ethnic,Pierrot,Crime,Rebellion,12,7.6
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+Listeners,Music,Sci-Fi,Adventure,Teen,Female,Multi-ethnic,MAPPA,Music,Travel,12,7.3
+Talentless Nana,Supernatural,Thriller,School,Teen,Female,Fictional,Bridge,Powers,Mystery,13,7.3
+Shadows House,Mystery,Supernatural,Mansion,Child,Female,Fictional,CloverWorks,Mystery,Class,13,7.7
+Wonder Egg Priority,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,CloverWorks,Grief,Trauma,12,7.5
+Sonny Boy,Sci-Fi,Supernatural,Alternate World,Teen,Male,Japanese,Madhouse,Existentialism,Mystery,12,7.7
+86,Action,Mecha,War,Teen,Male,Fictional,A-1 Pictures,War,Prejudice,23,8.1
+The Case Study of Vanitas,Supernatural,Historical,19th Century France,Adult,Male,French,Bones,Vampires,Mystery,12,8.1
+Heike Monogatari,Historical,Drama,12th Century Japan,Teen,Female,Japanese,Science SARU,War,Fate,11,8.3
+My Dress-Up Darling,Romance,Slice of Life,Modern Japan,Teen,Male,Japanese,CloverWorks,Cosplay,Friendship,12,7.9
+Komi Can't Communicate,Comedy,Slice of Life,School,Teen,Female,Japanese,OLM,Communication,Friendship,12,8.0
+Ranking of Kings (Part 2),Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,12,9.0
+Bocchi the Rock! (Season 2),Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.8
+Oshi no Ko (Season 2),Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,12,9.0
+Mobile Suit Gundam: The Witch From Mercury Season 2,Mecha,Sci-Fi,Space,Teen,Female,Fictional,Sunrise,War,Political,24,8.6
+Frieren: Beyond Journey's End,Adventure,Fantasy,Fantasy World,Adult,Female,Fictional,Madhouse,Mortality,Legacy,28,8.9
+Astro Boy,Sci-Fi,Adventure,Future,Child,Male,Fictional,Mushi Production,Robots,Justice,193,7.6
+Speed Racer,Sports,Action,Various,Teen,Male,Multi-ethnic,Tatsunoko Production,Racing,Adventure,52,7.3
+The Rose of Versailles,Historical,Drama,18th Century France,Young Adult,Female,European,Tokyo Movie Shinsha,Revolution,Romance,40,8.3
+Aim for the Ace!,Sports,Drama,Modern Japan,Teen,Female,Japanese,Tokyo Movie Shinsha,Tennis,Perseverance,26,7.5
+Galaxy Express 999,Sci-Fi,Adventure,Space,Adult,Male,Japanese,Toei Animation,Journey,Technology,113,7.9
+Belladonna of Sadness,Fantasy,Adult,Medieval Europe,Adult,Female,European,Mushi Production,Dark Fantasy,Tragedy,1,7.2
+Mobile Suit Gundam,Mecha,War,Space,Teen,Male,Japanese,Sunrise,War,Politics,43,8.2
+Space Runaway Ideon,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Sunrise,War,Humanity,39,7.5
+Macross,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Tatsunoko Production,War,Music,36,8.1
+Fist of the North Star,Action,Martial Arts,Post-Apocalyptic,Adult,Male,Japanese,Toei Animation,Martial Arts,Survival,109,8.0
+Dragon Ball,Adventure,Action,Fantasy,Child,Male,Fictional,Toei Animation,Martial Arts,Friendship,153,8.5
+City Hunter,Action,Comedy,Modern Japan,Adult,Male,Japanese,Sunrise,Action,Comedy,140,7.8
+My Neighbor Totoro,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Ghibli,Nature,Childhood,1,8.4
+Akira,Sci-Fi,Cyberpunk,Neo-Tokyo,Teen,Male,Japanese,Tokyo Movie Shinsha,Power,Society,1,8.1
+Kiki's Delivery Service,Fantasy,Slice of Life,European Town,Teen,Female,Japanese,Studio Ghibli,Coming of Age,Magic,1,8.0
+Sailor Moon,Magical Girl,Action,Modern Japan,Teen,Female,Japanese,Toei Animation,Friendship,Love,200,7.7
+Yu Yu Hakusho,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Pierrot,Martial Arts,Friendship,112,8.2
+Neon Genesis Evangelion,Mecha,Psychological,Post-Apocalyptic,Teen,Male,Japanese,Gainax,Existentialism,Trauma,26,8.5
+Cowboy Bebop,Sci-Fi,Action,Space,Adult,Male,Multi-ethnic,Sunrise,Bounty Hunters,Jazz,26,8.9
+Cardcaptor Sakura,Magical Girl,Fantasy,Modern Japan,Child,Female,Japanese,Madhouse,Friendship,Magic,70,8.0
+One Piece,Adventure,Action,Various,Teen,Male,Fictional,Toei Animation,Pirates,Friendship,Ongoing,8.6
+Hunter x Hunter (1999),Adventure,Action,Fantasy,Child,Male,Fictional,Nippon Animation,Adventure,Friendship,62,8.5
+Rurouni Kenshin,Action,Historical,Meiji Era Japan,Adult,Male,Japanese,Studio Gallop,Swordsmanship,Redemption,95,8.2
+Digimon Adventure,Adventure,Fantasy,Digital World,Child,Male,Japanese,Toei Animation,Friendship,Growth,54,7.6
+Revolutionary Girl Utena,Shoujo,Fantasy,School,Teen,Female,Japanese,J.C.Staff,Revolution,Identity,39,8.0
+Great Teacher Onizuka,Comedy,Slice of Life,School,Adult,Male,Japanese,Pierrot,Teaching,Delinquents,43,8.3
+Hellsing,Action,Horror,Modern Europe,Adult,Male,European,Gonzo,Vampires,Violence,13,7.7
+FLCL,Sci-Fi,Comedy,Suburban Japan,Teen,Male,Japanese,Gainax,Coming of Age,Absurd,6,8.0
+Fullmetal Alchemist,Action,Adventure,Steampunk,Teen,Male,Fictional,Bones,Alchemy,Brotherhood,51,9.1
+Samurai Champloo,Action,Adventure,Edo Period Japan,Adult,Male,Multi-ethnic,Manglobe,Hip-hop,Journey,26,8.4
+Death Note,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,Madhouse,Justice,Morality,37,9.0
+Code Geass,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,50,8.7
+Mushishi,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,26,8.7
+Ouran High School Host Club,Comedy,Romance,School,Teen,Female,Japanese,Bones,Romance,Parody,26,7.9
+Black Lagoon,Action,Crime,Southeast Asia,Adult,Female,Multi-ethnic,Madhouse,Gunfights,Morality,24,8.1
+The Melancholy of Haruhi Suzumiya,Sci-Fi,Comedy,School,Teen,Female,Japanese,Kyoto Animation,Time Travel,Mystery,28,7.9
+Toradora!,Romance,Comedy,School,Teen,Male,Japanese,J.C.Staff,Love,Friendship,25,8.1
+Clannad,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,23,8.3
+Lucky Star,Comedy,Slice of Life,School,Teen,Female,Japanese,Kyoto Animation,Parody,Daily Life,24,7.6
+Gurren Lagann,Mecha,Action,Post-Apocalyptic,Teen,Male,Fictional,Gainax,Courage,Fighting,27,8.7
+Natsume's Book of Friends,Supernatural,Slice of Life,Rural Japan,Teen,Male,Japanese,Brain's Base,Spirits,Healing,13,8.5
+Bakemonogatari,Mystery,Supernatural,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,15,8.3
+Angel Beats!,Action,Supernatural,Afterlife,Teen,Male,Japanese,P.A. Works,Afterlife,Friendship,13,8.0
+K-On!,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Friendship,13,7.9
+Steins;Gate,Sci-Fi,Thriller,Modern Japan,Adult,Male,Japanese,White Fox,Time Travel,Conspiracy,24,9.1
+AnoHana: The Flower We Saw That Day,Drama,Supernatural,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Grief,Friendship,11,8.2
+Attack on Titan,Action,Dark Fantasy,Post-Apocalyptic,Teen,Male,Fictional,Wit Studio,Survival,War,89,8.8
+Daily Lives of High School Boys,Comedy,Slice of Life,School,Teen,Male,Japanese,Sunrise,Comedy,School,12,7.9
+Psycho-Pass,Sci-Fi,Action,Dystopian,Adult,Male,Japanese,Production I.G,Justice,Society,22,8.2
+Kill la Kill,Action,Comedy,School,Teen,Female,Japanese,Trigger,Over the Top,Fashion,24,8.3
+Log Horizon,Action,Adventure,Isekai,Adult,Male,Fictional,Satelight,Gaming,Strategy,25,7.8
+No Game No Life,Adventure,Fantasy,Alternate World,Teen,Male,Fictional,Madhouse,Gaming,Strategy,12,7.8
+Your Lie in April,Romance,Drama,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Music,Grief,22,8.6
+Haikyuu!!,Sports,Comedy,School,Teen,Male,Japanese,Production I.G,Volleyball,Teamwork,25,8.7
+Ping Pong the Animation,Sports,Drama,Modern Japan,Teen,Male,Japanese,Tatsunoko Production,Table Tennis,Competition,11,8.6
+Parasyte -the maxim-,Action,Horror,Modern Japan,Teen,Male,Japanese,Madhouse,Survival,Body Horror,24,8.3
+Erased,Mystery,Supernatural,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Time Travel,Revenge,12,8.6
+Food Wars!,Comedy,Ecchi,Cooking,Teen,Male,Japanese,J.C.Staff,Food,Competition,24,7.9
+Shirobako,Slice of Life,Work,Modern Japan,Adult,Female,Japanese,P.A. Works,Anime Industry,Dreams,24,8.4
+Re:Zero - Starting Life in Another World,Fantasy,Isekai,Fantasy World,Teen,Male,Fictional,White Fox,Time Loop,Survival,25,8.2
+Konosuba,Adventure,Comedy,Fantasy World,Teen,Male,Fictional,Studio Deen,Isekai,Parody,10,8.0
+Made in Abyss,Adventure,Fantasy,Fantasy World,Child,Female,Fictional,Kinema Citrus,Exploration,Survival,13,8.5
+Devilman Crybaby,Action,Horror,Modern Japan,Adult,Male,Japanese,Science SARU,Demons,Violence,10,7.8
+Violet Evergarden,Drama,Fantasy,Post-War,Young Adult,Female,European,Kyoto Animation,Grief,Healing,13,8.7
+Rascal Does Not Dream of Bunny Girl Senpai,Romance,Supernatural,Modern Japan,Teen,Male,Japanese,CloverWorks,Adolescence,Supernatural,13,8.3
+March Comes in like a Lion,Slice of Life,Drama,Modern Japan,Teen,Male,Japanese,Shaft,Grief,Growth,22,8.5
+My Hero Academia,Action,Superhero,Modern Japan,Teen,Male,Japanese,Bones,Heroism,Friendship,Ongoing,8.5
+One Punch Man,Action,Comedy,Superhero,Adult,Male,Fictional,Madhouse,Parody,Heroism,12,8.5
+Demon Slayer,Action,Fantasy,Taisho Era Japan,Teen,Male,Japanese,Ufotable,Demons,Family,52,8.7
+Jujutsu Kaisen,Action,Supernatural,Modern Japan,Teen,Male,Japanese,MAPPA,Curses,Friendship,48,8.4
+Ranking of Kings,Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,23,8.9
+Spy x Family,Action,Comedy,Cold War Era,Child,Female,Fictional,Wit Studio,Family,Espionage,25,8.6
+Mushoku Tensei: Jobless Reincarnation,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,Studio Bind,Reincarnation,Adventure,23,8.2
+Odd Taxi,Mystery,Thriller,Modern Japan,Adult,Male,Multi-ethnic,OLM,Urban Life,Conspiracy,13,8.5
+Wonder Egg Priority,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,CloverWorks,Grief,Trauma,12,7.5
+Bocchi the Rock!,Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.7
+Vinland Saga,Historical,Action,Medieval Europe,Adult,Male,European,Wit Studio,War,Revenge,24,8.8
+Chainsaw Man,Action,Horror,Modern Japan,Teen,Male,Japanese,MAPPA,Demons,Survival,12,8.6
+Oshi no Ko,Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,11,8.9
+Summer Time Rendering,Mystery,Thriller,Island,Teen,Male,Japanese,OLM,Time Loop,Supernatural,25,8.5
+Cyberpunk: Edgerunners,Sci-Fi,Action,Cyberpunk,Adult,Male,Multi-ethnic,Trigger,Technology,Rebellion,10,8.5
+Mobile Suit Gundam: The Witch From Mercury,Mecha,Sci-Fi,Space,Teen,Female,Fictional,Sunrise,War,Political,24,8.4
+A Place Further than the Universe,Adventure,Slice of Life,Antarctica,Teen,Female,Japanese,Madhouse,Friendship,Growth,13,8.4
+Kaiba,Sci-Fi,Romance,Futuristic,Adult,Male,Fictional,Madhouse,Identity,Memory,12,8.1
+Mononoke,Mystery,Horror,Feudal Japan,Adult,Male,Japanese,Toei Animation,Supernatural,Exorcism,12,8.5
+The Tatami Galaxy,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Madhouse,Time Loop,Self-Discovery,11,8.5
+Yuru Camp,Slice of Life,Outdoor,Modern Japan,Teen,Female,Japanese,C-Station,Camping,Friendship,12,8.2
+Grand Blue,Comedy,Slice of Life,University,Teen,Male,Japanese,Zero-G,Comedy,College Life,12,8.3
+Aggretsuko,Comedy,Slice of Life,Modern Japan,Adult,Female,Fictional,Fanworks,Workplace,Stress,50,7.8
+Space Dandy,Sci-Fi,Comedy,Space,Adult,Male,Multi-ethnic,Bones,Adventure,Absurd,26,7.9
+Code Geass: Lelouch of the Rebellion R2,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,25,8.9
+Spice and Wolf,Adventure,Fantasy,Medieval Europe,Adult,Male,European,Brain's Base,Commerce,Romance,13,8.1
+The Promised Neverland,Thriller,Fantasy,Orphanage,Child,Female,Fictional,CloverWorks,Escape,Survival,12,8.3
+Hyouka,Mystery,Slice of Life,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Mystery,School Life,22,8.0
+Silver Spoon,Slice of Life,Comedy,Rural Japan,Teen,Male,Japanese,A-1 Pictures,Agriculture,Growth,11,7.9
+Run with the Wind,Sports,Drama,University,Young Adult,Male,Japanese,Production I.G,Running,Friendship,23,8.7
+Akudama Drive,Action,Cyberpunk,Dystopian,Adult,Multi-ethnic,Pierrot,Crime,Rebellion,12,7.6
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+Listeners,Music,Sci-Fi,Adventure,Teen,Female,Multi-ethnic,MAPPA,Music,Travel,12,7.3
+Talentless Nana,Supernatural,Thriller,School,Teen,Female,Fictional,Bridge,Powers,Mystery,13,7.3
+Shadows House,Mystery,Supernatural,Mansion,Child,Female,Fictional,CloverWorks,Mystery,Class,13,7.7
+
+The Case Study of Vanitas,Supernatural,Historical,19th Century France,Adult,Male,French,Bones,Vampires,Mystery,12,8.1
+Heike Monogatari,Historical,Drama,12th Century Japan,Teen,Female,Japanese,Science SARU,War,Fate,11,8.3
+My Dress-Up Darling,Romance,Slice of Life,Modern Japan,Teen,Male,Japanese,CloverWorks,Cosplay,Friendship,12,7.9
+Komi Can't Communicate,Comedy,Slice of Life,School,Teen,Female,Japanese,OLM,Communication,Friendship,12,8.0
+Mobile Suit Gundam Unicorn,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Sunrise,War,Ideology,7,8.4
+Wolf Children,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Chizu,Parenting,Family,1,8.1
+Princess Jellyfish,Comedy,Slice of Life,Urban Japan,Adult,Female,Japanese,Brain's Base,Fashion,Friendship,11,7.8
+Terror in Resonance,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,MAPPA,Terrorism,Society,11,7.9
+Ergo Proxy,Sci-Fi,Mystery,Dystopian,Adult,Male,Fictional,Manglobe,Identity,Philosophy,23,8.0
+Grave of the Fireflies,War,Drama,WWII Japan,Child,Male,Japanese,Studio Ghibli,War,Loss,1,8.4
+Perfect Blue,Psychological,Thriller,Modern Japan,Adult,Female,Japanese,Madhouse,Identity,Obsession,1,8.1
+Paprika,Sci-Fi,Mystery,Modern Japan,Adult,Female,Japanese,Madhouse,Dreams,Psychological,1,8.1
+Texhnolyze,Sci-Fi,Cyberpunk,Dystopian,Adult,Male,Fictional,Madhouse,Technology,Humanity,22,7.8
+Legend of the Galactic Heroes,Sci-Fi,Space Opera,Space,Adult,Male,Multi-Ethnic,Artland,War,Politics,110,9.0
+Haibane Renmei,Fantasy,Slice of Life,Heaven,Young Adult,Female,Fictional,Radix,Self-Discovery,Purpose,13,8.1
+Honey and Clover,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,J.C.Staff,Art,Love,24,8.2
+Azumanga Daioh,Comedy,Slice of Life,School,Teen,Female,Japanese,J.C.Staff,Comedy,School Life,26,8.0
+School Rumble,Comedy,Romance,School,Teen,Male,Japanese,Comet,Love,School,26,7.7
+NHK ni Youkoso!,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Gonzo,Hikikomori,Anxiety,24,8.0
+Dennou Coil,Sci-Fi,Adventure,Futuristic Japan,Child,Female,Japanese,Madhouse,Technology,Friendship,26,8.2
+Ano Natsu de Matteru,Sci-Fi,Romance,Rural Japan,Teen,Male,Japanese,J.C.Staff,Love,Friendship,12,7.8
+Kimi ni Todoke,Romance,Slice of Life,School,Teen,Female,Japanese,Production I.G,Romance,Shyness,25,8.2
+Working!!,Comedy,Slice of Life,Restaurant,Teen,Female,Japanese,A-1 Pictures,Comedy,Workplace,13,7.8
+Yuri on Ice,Sports,Comedy,Modern,Adult,Male,Multi-ethnic,MAPPA,Figure Skating,Love,12,8.1
+Initial D First Stage,Sports,Action,Japan,Teen,Male,Japanese,Gallop,Racing,Cars,26,8.1
+Is It Wrong to Try to Pick Up Girls in a Dungeon?,Adventure,Fantasy,Fantasy World,Teen,Male,Fictional,J.C.Staff,Adventure,Dungeons,13,7.5
+That Time I Got Reincarnated as a Slime,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,8bit,Reincarnation,Community Building,24,8.0
+My Teen Romantic Comedy SNAFU,Comedy,Romance,School,Teen,Male,Japanese,Brain's Base,Romance,Solitude,13,8.0
+Fruits Basket,Slice of Life,Romance,Modern Japan,Teen,Female,Japanese,TMS Entertainment,Family,Supernatural,26,8.2
+Bloom into You,Romance,Slice of Life,School,Teen,Female,Japanese,TROYCA,Love,Identity,13,8.1
+The Quintessential Quintuplets,Romance,Harem,School,Teen,Male,Japanese,Tezuka Productions,Romance,Comedy,12,7.6
+Ascendance of a Bookworm,Fantasy,Slice of Life,Isekai,Child,Female,Fictional,Ajia-Do,Books,Reincarnation,14,8.1
+Given,Romance,Music,Modern Japan,Teen,Male,Japanese,Lerche,Music,Love,11,8.1
+Saga of Tanya the Evil,Action,Isekai,Fantasy World,Child,Female,German,NUT,War,Reincarnation,12,7.9
+Beastars,Drama,Slice of Life,Animal Society,Teen,Male,Fictional,Orange,Society,Acceptance,12,7.9
+Dororo,Action,Historical,Sengoku Period Japan,Teen,Male,Japanese,MAPPA,Demons,Redemption,24,8.4
+The Rising of the Shield Hero,Action,Adventure,Fantasy World,Adult,Male,Fictional,Kinema Citrus,Justice,Betrayal,25,7.9
+Link Click,Supernatural,Mystery,Modern China,Adult,Male,Chinese,Studio LAN,Time Travel,Photography,11,8.3
+Penguin Highway,Sci-Fi,Mystery,Modern Japan,Child,Male,Japanese,Studio Colorido,Science,Friendship,1,7.6
+Josee the Tiger and the Fish,Romance,Slice of Life,Modern Japan,Young Adult,Female,Japanese,Bones,Love,Disability,1,7.9
+Words Bubble Up Like Soda Pop,Romance,Slice of Life,Rural Japan,Teen,Male,Japanese,Signal.MD,Love,Communication,1,7.5
+Belle,Sci-Fi,Fantasy,Virtual World,Teen,Female,Japanese,Studio Chizu,Music,Identity,1,7.7
+Blue Giant,Music,Drama,Modern Japan,Young Adult,Male,Japanese,NUT,Jazz,Ambition,1,8.1
+Heavenly Delusion,Sci-Fi,Mystery,Post-Apocalyptic,Teen,Male,Fictional,Production I.G,Survival,Technology,13,7.9
+Skip and Loafer,Slice of Life,Comedy,School,Teen,Female,Japanese,P.A. Works,School Life,Friendship,12,8.2
+Undead Girl Murder Farce,Mystery,Supernatural,19th Century Europe,Young Adult,Female,Multi-ethnic,Lapin Track,Mystery,Detective,13,7.6
+Insomniacs After School,Romance,Slice of Life,School,Teen,Male,Japanese,Liden Films,Love,Sleep,13,7.4
+Mushishi Zoku Shou,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,10,8.8
+Noragami,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Bones,Gods,Supernatural,12,8.1
+Kekkai Sensen,Action,Supernatural,Urban,Adult,Male,Multi-ethnic,Bones,Superpowers,City Life,12,7.8
+Charlotte,Supernatural,School,Modern Japan,Teen,Male,Japanese,P.A. Works,Superpowers,Adolescence,13,7.7
+Erased,Mystery,Supernatural,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Time Travel,Revenge,12,8.6
+Gangsta.,Action,Crime,Modern City,Adult,Male,Multi-Ethnic,Manglobe,Mafia,Survival,12,7.4
+A Silent Voice,Drama,School,Modern Japan,Teen,Female,Japanese,Kyoto Animation,Bullying,Forgiveness,1,8.2
+Hibike! Euphonium,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Friendship,13,8.1
+Land of the Lustrous,Action,Fantasy,Future Earth,Non-Binary,Multi-Mineral,Orange,Gemstones,Survival,12,7.9
+Revue Starlight,Musical,Action,School,Teen,Female,Japanese,Kinema Citrus,Theatre,Dreams,12,7.7
+Aggretsuko (Season 2),Comedy,Slice of Life,Modern Japan,Adult,Female,Fictional,Fanworks,Workplace,Stress,10,7.8
+Akudama Drive,Action,Cyberpunk,Dystopian,Adult,Multi-ethnic,Pierrot,Crime,Rebellion,12,7.6
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+Listeners,Music,Sci-Fi,Adventure,Teen,Female,Multi-ethnic,MAPPA,Music,Travel,12,7.3
+Talentless Nana,Supernatural,Thriller,School,Teen,Female,Fictional,Bridge,Powers,Mystery,13,7.3
+Shadows House,Mystery,Supernatural,Mansion,Child,Female,Fictional,CloverWorks,Mystery,Class,13,7.7
+Wonder Egg Priority,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,CloverWorks,Grief,Trauma,12,7.5
+Sonny Boy,Sci-Fi,Supernatural,Alternate World,Teen,Male,Japanese,Madhouse,Existentialism,Mystery,12,7.7
+The Case Study of Vanitas,Supernatural,Historical,19th Century France,Adult,Male,French,Bones,Vampires,Mystery,12,8.1
+Heike Monogatari,Historical,Drama,12th Century Japan,Teen,Female,Japanese,Science SARU,War,Fate,11,8.3
+My Dress-Up Darling,Romance,Slice of Life,Modern Japan,Teen,Male,Japanese,CloverWorks,Cosplay,Friendship,12,7.9
+Komi Can't Communicate,Comedy,Slice of Life,School,Teen,Female,Japanese,OLM,Communication,Friendship,12,8.0
+Ranking of Kings (Part 2),Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,12,9.0
+Bocchi the Rock! (Season 2),Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.8
+Oshi no Ko (Season 2),Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,12,9.0
+Mobile Suit Gundam: The Witch From Mercury Season 2,Mecha,Sci-Fi,Space,Teen,Female,Fictional,Sunrise,War,Political,24,8.6
+Frieren: Beyond Journey's End,Adventure,Fantasy,Fantasy World,Adult,Female,Fictional,Madhouse,Mortality,Legacy,28,8.9
+Lycoris Recoil,Action,Slice of Life,Modern Japan,Teen,Female,Japanese,A-1 Pictures,Guns,Friendship,13,7.9
+Tomozaki-kun,Romance,Comedy,School,Teen,Male,Japanese,Project No.9,Gaming,Self-Improvement,12,7.3
+Bungo Stray Dogs,Action,Supernatural,Modern Japan,Adult,Male,Multi-ethnic,Bones,Literature,Superpowers,50,8.0
+Kotaro Lives Alone,Slice of Life,Comedy,Modern Japan,Child,Male,Japanese,Liden Films,Childhood,Loneliness,10,8.5
+Ranking of Kings (Season 2),Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,12,9.0
+Astro Boy,Sci-Fi,Adventure,Future,Child,Male,Fictional,Mushi Production,Robots,Justice,193,7.6
+Speed Racer,Sports,Action,Various,Teen,Male,Multi-ethnic,Tatsunoko Production,Racing,Adventure,52,7.3
+The Rose of Versailles,Historical,Drama,18th Century France,Young Adult,Female,European,Tokyo Movie Shinsha,Revolution,Romance,40,8.3
+Aim for the Ace!,Sports,Drama,Modern Japan,Teen,Female,Japanese,Tokyo Movie Shinsha,Tennis,Perseverance,26,7.5
+Galaxy Express 999,Sci-Fi,Adventure,Space,Adult,Male,Japanese,Toei Animation,Journey,Technology,113,7.9
+Belladonna of Sadness,Fantasy,Adult,Medieval Europe,Adult,Female,European,Mushi Production,Dark Fantasy,Tragedy,1,7.2
+Mobile Suit Gundam,Mecha,War,Space,Teen,Male,Japanese,Sunrise,War,Politics,43,8.2
+Space Runaway Ideon,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Sunrise,War,Humanity,39,7.5
+Macross,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Tatsunoko Production,War,Music,36,8.1
+Fist of the North Star,Action,Martial Arts,Post-Apocalyptic,Adult,Male,Japanese,Toei Animation,Martial Arts,Survival,109,8.0
+Dragon Ball,Adventure,Action,Fantasy,Child,Male,Fictional,Toei Animation,Martial Arts,Friendship,153,8.5
+City Hunter,Action,Comedy,Modern Japan,Adult,Male,Japanese,Sunrise,Action,Comedy,140,7.8
+My Neighbor Totoro,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Ghibli,Nature,Childhood,1,8.4
+Akira,Sci-Fi,Cyberpunk,Neo-Tokyo,Teen,Male,Japanese,Tokyo Movie Shinsha,Power,Society,1,8.1
+Kiki's Delivery Service,Fantasy,Slice of Life,European Town,Teen,Female,Japanese,Studio Ghibli,Coming of Age,Magic,1,8.0
+Sailor Moon,Magical Girl,Action,Modern Japan,Teen,Female,Japanese,Toei Animation,Friendship,Love,200,7.7
+Yu Yu Hakusho,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Pierrot,Martial Arts,Friendship,112,8.2
+Neon Genesis Evangelion,Mecha,Psychological,Post-Apocalyptic,Teen,Male,Japanese,Gainax,Existentialism,Trauma,26,8.5
+Cowboy Bebop,Sci-Fi,Action,Space,Adult,Male,Multi-ethnic,Sunrise,Bounty Hunters,Jazz,26,8.9
+Cardcaptor Sakura,Magical Girl,Fantasy,Modern Japan,Child,Female,Japanese,Madhouse,Friendship,Magic,70,8.0
+One Piece,Adventure,Action,Various,Teen,Male,Fictional,Toei Animation,Pirates,Friendship,Ongoing,8.6
+Hunter x Hunter (1999),Adventure,Action,Fantasy,Child,Male,Fictional,Nippon Animation,Adventure,Friendship,62,8.5
+Rurouni Kenshin,Action,Historical,Meiji Era Japan,Adult,Male,Japanese,Studio Gallop,Swordsmanship,Redemption,95,8.2
+Digimon Adventure,Adventure,Fantasy,Digital World,Child,Male,Japanese,Toei Animation,Friendship,Growth,54,7.6
+Revolutionary Girl Utena,Shoujo,Fantasy,School,Teen,Female,Japanese,J.C.Staff,Revolution,Identity,39,8.0
+Great Teacher Onizuka,Comedy,Slice of Life,School,Adult,Male,Japanese,Pierrot,Teaching,Delinquents,43,8.3
+Hellsing,Action,Horror,Modern Europe,Adult,Male,European,Gonzo,Vampires,Violence,13,7.7
+FLCL,Sci-Fi,Comedy,Suburban Japan,Teen,Male,Japanese,Gainax,Coming of Age,Absurd,6,8.0
+Fullmetal Alchemist,Action,Adventure,Steampunk,Teen,Male,Fictional,Bones,Alchemy,Brotherhood,51,9.1
+Samurai Champloo,Action,Adventure,Edo Period Japan,Adult,Male,Multi-ethnic,Manglobe,Hip-hop,Journey,26,8.4
+Death Note,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,Madhouse,Justice,Morality,37,9.0
+Code Geass,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,50,8.7
+Mushishi,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,26,8.7
+Ouran High School Host Club,Comedy,Romance,School,Teen,Female,Japanese,Bones,Romance,Parody,26,7.9
+Black Lagoon,Action,Crime,Southeast Asia,Adult,Female,Multi-ethnic,Madhouse,Gunfights,Morality,24,8.1
+The Melancholy of Haruhi Suzumiya,Sci-Fi,Comedy,School,Teen,Female,Japanese,Kyoto Animation,Time Travel,Mystery,28,7.9
+Toradora!,Romance,Comedy,School,Teen,Male,Japanese,J.C.Staff,Love,Friendship,25,8.1
+Clannad,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,23,8.3
+Lucky Star,Comedy,Slice of Life,School,Teen,Female,Japanese,Kyoto Animation,Parody,Daily Life,24,7.6
+Gurren Lagann,Mecha,Action,Post-Apocalyptic,Teen,Male,Fictional,Gainax,Courage,Fighting,27,8.7
+Natsume's Book of Friends,Supernatural,Slice of Life,Rural Japan,Teen,Male,Japanese,Brain's Base,Spirits,Healing,13,8.5
+Bakemonogatari,Mystery,Supernatural,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,15,8.3
+Angel Beats!,Action,Supernatural,Afterlife,Teen,Male,Japanese,P.A. Works,Afterlife,Friendship,13,8.0
+K-On!,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Friendship,13,7.9
+Steins;Gate,Sci-Fi,Thriller,Modern Japan,Adult,Male,Japanese,White Fox,Time Travel,Conspiracy,24,9.1
+AnoHana: The Flower We Saw That Day,Drama,Supernatural,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Grief,Friendship,11,8.2
+Attack on Titan,Action,Dark Fantasy,Post-Apocalyptic,Teen,Male,Fictional,Wit Studio,Survival,War,89,8.8
+Daily Lives of High School Boys,Comedy,Slice of Life,School,Teen,Male,Japanese,Sunrise,Comedy,School,12,7.9
+Psycho-Pass,Sci-Fi,Action,Dystopian,Adult,Male,Japanese,Production I.G,Justice,Society,22,8.2
+Kill la Kill,Action,Comedy,School,Teen,Female,Japanese,Trigger,Over the Top,Fashion,24,8.3
+Log Horizon,Action,Adventure,Isekai,Adult,Male,Fictional,Satelight,Gaming,Strategy,25,7.8
+No Game No Life,Adventure,Fantasy,Alternate World,Teen,Male,Fictional,Madhouse,Gaming,Strategy,12,7.8
+Your Lie in April,Romance,Drama,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Music,Grief,22,8.6
+Haikyuu!!,Sports,Comedy,School,Teen,Male,Japanese,Production I.G,Volleyball,Teamwork,25,8.7
+Ping Pong the Animation,Sports,Drama,Modern Japan,Teen,Male,Japanese,Tatsunoko Production,Table Tennis,Competition,11,8.6
+Parasyte -the maxim-,Action,Horror,Modern Japan,Teen,Male,Japanese,Madhouse,Survival,Body Horror,24,8.3
+Erased,Mystery,Supernatural,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Time Travel,Revenge,12,8.6
+Food Wars!,Comedy,Ecchi,Cooking,Teen,Male,Japanese,J.C.Staff,Food,Competition,24,7.9
+Shirobako,Slice of Life,Work,Modern Japan,Adult,Female,Japanese,P.A. Works,Anime Industry,Dreams,24,8.4
+Re:Zero - Starting Life in Another World,Fantasy,Isekai,Fantasy World,Teen,Male,Fictional,White Fox,Time Loop,Survival,25,8.2
+Konosuba,Adventure,Comedy,Fantasy World,Teen,Male,Fictional,Studio Deen,Isekai,Parody,10,8.0
+Made in Abyss,Adventure,Fantasy,Fantasy World,Child,Female,Fictional,Kinema Citrus,Exploration,Survival,13,8.5
+Devilman Crybaby,Action,Horror,Modern Japan,Adult,Male,Japanese,Science SARU,Demons,Violence,10,7.8
+Violet Evergarden,Drama,Fantasy,Post-War,Young Adult,Female,European,Kyoto Animation,Grief,Healing,13,8.7
+Rascal Does Not Dream of Bunny Girl Senpai,Romance,Supernatural,Modern Japan,Teen,Male,Japanese,CloverWorks,Adolescence,Supernatural,13,8.3
+March Comes in like a Lion,Slice of Life,Drama,Modern Japan,Teen,Male,Japanese,Shaft,Grief,Growth,22,8.5
+My Hero Academia,Action,Superhero,Modern Japan,Teen,Male,Japanese,Bones,Heroism,Friendship,Ongoing,8.5
+One Punch Man,Action,Comedy,Superhero,Adult,Male,Fictional,Madhouse,Parody,Heroism,12,8.5
+Demon Slayer,Action,Fantasy,Taisho Era Japan,Teen,Male,Japanese,Ufotable,Demons,Family,52,8.7
+Jujutsu Kaisen,Action,Supernatural,Modern Japan,Teen,Male,Japanese,MAPPA,Curses,Friendship,48,8.4
+Ranking of Kings,Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,23,8.9
+Spy x Family,Action,Comedy,Cold War Era,Child,Female,Fictional,Wit Studio,Family,Espionage,25,8.6
+Mushoku Tensei: Jobless Reincarnation,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,Studio Bind,Reincarnation,Adventure,23,8.2
+Odd Taxi,Mystery,Thriller,Modern Japan,Adult,Male,Multi-ethnic,OLM,Urban Life,Conspiracy,13,8.5
+Wonder Egg Priority,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,CloverWorks,Grief,Trauma,12,7.5
+Bocchi the Rock!,Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.7
+Vinland Saga,Historical,Action,Medieval Europe,Adult,Male,European,Wit Studio,War,Revenge,24,8.8
+Chainsaw Man,Action,Horror,Modern Japan,Teen,Male,Japanese,MAPPA,Demons,Survival,12,8.6
+Oshi no Ko,Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,11,8.9
+Summer Time Rendering,Mystery,Thriller,Island,Teen,Male,Japanese,OLM,Time Loop,Supernatural,25,8.5
+Cyberpunk: Edgerunners,Sci-Fi,Action,Cyberpunk,Adult,Male,Multi-ethnic,Trigger,Technology,Rebellion,10,8.5
+Mobile Suit Gundam: The Witch From Mercury,Mecha,Sci-Fi,Space,Teen,Female,Fictional,Sunrise,War,Political,24,8.4
+A Place Further than the Universe,Adventure,Slice of Life,Antarctica,Teen,Female,Japanese,Madhouse,Friendship,Growth,13,8.4
+Kaiba,Sci-Fi,Romance,Futuristic,Adult,Male,Fictional,Madhouse,Identity,Memory,12,8.1
+Mononoke,Mystery,Horror,Feudal Japan,Adult,Male,Japanese,Toei Animation,Supernatural,Exorcism,12,8.5
+The Tatami Galaxy,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Madhouse,Time Loop,Self-Discovery,11,8.5
+Yuru Camp,Slice of Life,Outdoor,Modern Japan,Teen,Female,Japanese,C-Station,Camping,Friendship,12,8.2
+Grand Blue,Comedy,Slice of Life,University,Teen,Male,Japanese,Zero-G,Comedy,College Life,12,8.3
+Aggretsuko,Comedy,Slice of Life,Modern Japan,Adult,Female,Fictional,Fanworks,Workplace,Stress,50,7.8
+Space Dandy,Sci-Fi,Comedy,Space,Adult,Male,Multi-ethnic,Bones,Adventure,Absurd,26,7.9
+Code Geass: Lelouch of the Rebellion R2,Mecha,Action,Alternate World,Teen,Male,Japanese,Sunrise,Rebellion,Strategy,25,8.9
+Spice and Wolf,Adventure,Fantasy,Medieval Europe,Adult,Male,European,Brain's Base,Commerce,Romance,13,8.1
+The Promised Neverland,Thriller,Fantasy,Orphanage,Child,Female,Fictional,CloverWorks,Escape,Survival,12,8.3
+Hyouka,Mystery,Slice of Life,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Mystery,School Life,22,8.0
+Silver Spoon,Slice of Life,Comedy,Rural Japan,Teen,Male,Japanese,A-1 Pictures,Agriculture,Growth,11,7.9
+Run with the Wind,Sports,Drama,University,Young Adult,Male,Japanese,Production I.G,Running,Friendship,23,8.7
+Akudama Drive,Action,Cyberpunk,Dystopian,Adult,Multi-ethnic,Pierrot,Crime,Rebellion,12,7.6
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+Listeners,Music,Sci-Fi,Adventure,Teen,Female,Multi-ethnic,MAPPA,Music,Travel,12,7.3
+Talentless Nana,Supernatural,Thriller,School,Teen,Female,Fictional,Bridge,Powers,Mystery,13,7.3
+Shadows House,Mystery,Supernatural,Mansion,Child,Female,Fictional,CloverWorks,Mystery,Class,13,7.7
+The Case Study of Vanitas,Supernatural,Historical,19th Century France,Adult,Male,French,Bones,Vampires,Mystery,12,8.1
+Heike Monogatari,Historical,Drama,12th Century Japan,Teen,Female,Japanese,Science SARU,War,Fate,11,8.3
+My Dress-Up Darling,Romance,Slice of Life,Modern Japan,Teen,Male,Japanese,CloverWorks,Cosplay,Friendship,12,7.9
+Komi Can't Communicate,Comedy,Slice of Life,School,Teen,Female,Japanese,OLM,Communication,Friendship,12,8.0
+Mobile Suit Gundam Unicorn,Mecha,Sci-Fi,Space,Adult,Male,Japanese,Sunrise,War,Ideology,7,8.4
+Wolf Children,Fantasy,Family,Rural Japan,Child,Female,Japanese,Studio Chizu,Parenting,Family,1,8.1
+Princess Jellyfish,Comedy,Slice of Life,Urban Japan,Adult,Female,Japanese,Brain's Base,Fashion,Friendship,11,7.8
+Terror in Resonance,Mystery,Thriller,Modern Japan,Teen,Male,Japanese,MAPPA,Terrorism,Society,11,7.9
+Ergo Proxy,Sci-Fi,Mystery,Dystopian,Adult,Male,Fictional,Manglobe,Identity,Philosophy,23,8.0
+Grave of the Fireflies,War,Drama,WWII Japan,Child,Male,Japanese,Studio Ghibli,War,Loss,1,8.4
+Perfect Blue,Psychological,Thriller,Modern Japan,Adult,Female,Japanese,Madhouse,Identity,Obsession,1,8.1
+Paprika,Sci-Fi,Mystery,Modern Japan,Adult,Female,Japanese,Madhouse,Dreams,Psychological,1,8.1
+Texhnolyze,Sci-Fi,Cyberpunk,Dystopian,Adult,Male,Fictional,Madhouse,Technology,Humanity,22,7.8
+Legend of the Galactic Heroes,Sci-Fi,Space Opera,Space,Adult,Male,Multi-Ethnic,Artland,War,Politics,110,9.0
+Haibane Renmei,Fantasy,Slice of Life,Heaven,Young Adult,Female,Fictional,Radix,Self-Discovery,Purpose,13,8.1
+Honey and Clover,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,J.C.Staff,Art,Love,24,8.2
+Azumanga Daioh,Comedy,Slice of Life,School,Teen,Female,Japanese,J.C.Staff,Comedy,School Life,26,8.0
+School Rumble,Comedy,Romance,School,Teen,Male,Japanese,Comet,Love,School,26,7.7
+NHK ni Youkoso!,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Gonzo,Hikikomori,Anxiety,24,8.0
+Dennou Coil,Sci-Fi,Adventure,Futuristic Japan,Child,Female,Japanese,Madhouse,Technology,Friendship,26,8.2
+Ano Natsu de Matteru,Sci-Fi,Romance,Rural Japan,Teen,Male,Japanese,J.C.Staff,Love,Friendship,12,7.8
+Kimi ni Todoke,Romance,Slice of Life,School,Teen,Female,Japanese,Production I.G,Romance,Shyness,25,8.2
+Working!!,Comedy,Slice of Life,Restaurant,Teen,Female,Japanese,A-1 Pictures,Comedy,Workplace,13,7.8
+Yuri on Ice,Sports,Comedy,Modern,Adult,Male,Multi-ethnic,MAPPA,Figure Skating,Love,12,8.1
+Initial D First Stage,Sports,Action,Japan,Teen,Male,Japanese,Gallop,Racing,Cars,26,8.1
+Is It Wrong to Try to Pick Up Girls in a Dungeon?,Adventure,Fantasy,Fantasy World,Teen,Male,Fictional,J.C.Staff,Adventure,Dungeons,13,7.5
+That Time I Got Reincarnated as a Slime,Fantasy,Isekai,Fantasy World,Adult,Male,Fictional,8bit,Reincarnation,Community Building,24,8.0
+My Teen Romantic Comedy SNAFU,Comedy,Romance,School,Teen,Male,Japanese,Brain's Base,Romance,Solitude,13,8.0
+Fruits Basket,Slice of Life,Romance,Modern Japan,Teen,Female,Japanese,TMS Entertainment,Family,Supernatural,26,8.2
+Bloom into You,Romance,Slice of Life,School,Teen,Female,Japanese,TROYCA,Love,Identity,13,8.1
+The Quintessential Quintuplets,Romance,Harem,School,Teen,Male,Japanese,Tezuka Productions,Romance,Comedy,12,7.6
+Ascendance of a Bookworm,Fantasy,Slice of Life,Isekai,Child,Female,Fictional,Ajia-Do,Books,Reincarnation,14,8.1
+Given,Romance,Music,Modern Japan,Teen,Male,Japanese,Lerche,Music,Love,11,8.1
+Saga of Tanya the Evil,Action,Isekai,Fantasy World,Child,Female,German,NUT,War,Reincarnation,12,7.9
+Beastars,Drama,Slice of Life,Animal Society,Teen,Male,Fictional,Orange,Society,Acceptance,12,7.9
+Dororo,Action,Historical,Sengoku Period Japan,Teen,Male,Japanese,MAPPA,Demons,Redemption,24,8.4
+The Rising of the Shield Hero,Action,Adventure,Fantasy World,Adult,Male,Fictional,Kinema Citrus,Justice,Betrayal,25,7.9
+Link Click,Supernatural,Mystery,Modern China,Adult,Male,Chinese,Studio LAN,Time Travel,Photography,11,8.3
+Penguin Highway,Sci-Fi,Mystery,Modern Japan,Child,Male,Japanese,Studio Colorido,Science,Friendship,1,7.6
+Words Bubble Up Like Soda Pop,Romance,Slice of Life,Rural Japan,Teen,Male,Japanese,Signal.MD,Love,Communication,1,7.5
+Belle,Sci-Fi,Fantasy,Virtual World,Teen,Female,Japanese,Studio Chizu,Music,Identity,1,7.7
+Blue Giant,Music,Drama,Modern Japan,Young Adult,Male,Japanese,NUT,Jazz,Ambition,1,8.1
+Heavenly Delusion,Sci-Fi,Mystery,Post-Apocalyptic,Teen,Male,Fictional,Production I.G,Survival,Technology,13,7.9
+Skip and Loafer,Slice of Life,Comedy,School,Teen,Female,Japanese,P.A. Works,School Life,Friendship,12,8.2
+Undead Girl Murder Farce,Mystery,Supernatural,19th Century Europe,Young Adult,Female,Multi-ethnic,Lapin Track,Mystery,Detective,13,7.6
+Insomniacs After School,Romance,Slice of Life,School,Teen,Male,Japanese,Liden Films,Love,Sleep,13,7.4
+Mushishi Zoku Shou,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,10,8.8
+Noragami,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Bones,Gods,Supernatural,12,8.1
+Kekkai Sensen,Action,Supernatural,Urban,Adult,Male,Multi-ethnic,Bones,Superpowers,City Life,12,7.8
+Charlotte,Supernatural,School,Modern Japan,Teen,Male,Japanese,P.A. Works,Superpowers,Adolescence,13,7.7
+Gangsta.,Action,Crime,Modern City,Adult,Male,Multi-Ethnic,Manglobe,Mafia,Survival,12,7.4
+A Silent Voice,Drama,School,Modern Japan,Teen,Female,Japanese,Kyoto Animation,Bullying,Forgiveness,1,8.2
+Hibike! Euphonium,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Friendship,13,8.1
+Land of the Lustrous,Action,Fantasy,Future Earth,Non-Binary,Multi-Mineral,Orange,Gemstones,Survival,12,7.9
+Revue Starlight,Musical,Action,School,Teen,Female,Japanese,Kinema Citrus,Theatre,Dreams,12,7.7
+Aggretsuko (Season 2),Comedy,Slice of Life,Modern Japan,Adult,Female,Fictional,Fanworks,Workplace,Stress,10,7.8
+Akudama Drive,Action,Cyberpunk,Dystopian,Adult,Multi-ethnic,Pierrot,Crime,Rebellion,12,7.6
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+Listeners,Music,Sci-Fi,Adventure,Teen,Female,Multi-ethnic,MAPPA,Music,Travel,12,7.3
+Talentless Nana,Supernatural,Thriller,School,Teen,Female,Fictional,Bridge,Powers,Mystery,13,7.3
+Shadows House,Mystery,Supernatural,Mansion,Child,Female,Fictional,CloverWorks,Mystery,Class,13,7.7
+Wonder Egg Priority,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,CloverWorks,Grief,Trauma,12,7.5
+Sonny Boy,Sci-Fi,Supernatural,Alternate World,Teen,Male,Japanese,Madhouse,Existentialism,Mystery,12,7.7
+The Case Study of Vanitas,Supernatural,Historical,19th Century France,Adult,Male,French,Bones,Vampires,Mystery,12,8.1
+Heike Monogatari,Historical,Drama,12th Century Japan,Teen,Female,Japanese,Science SARU,War,Fate,11,8.3
+My Dress-Up Darling,Romance,Slice of Life,Modern Japan,Teen,Male,Japanese,CloverWorks,Cosplay,Friendship,12,7.9
+Komi Can't Communicate,Comedy,Slice of Life,School,Teen,Female,Japanese,OLM,Communication,Friendship,12,8.0
+Ranking of Kings (Part 2),Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,12,9.0
+Bocchi the Rock! (Season 2),Music,Comedy,Modern Japan,Teen,Female,Japanese,CloverWorks,Anxiety,Music,12,8.8
+Oshi no Ko (Season 2),Drama,Mystery,Modern Japan,Teen,Female,Japanese,Doga Kobo,Idols,Revenge,12,9.0
+Mobile Suit Gundam: The Witch From Mercury Season 2,Mecha,Sci-Fi,Space,Teen,Female,Fictional,Sunrise,War,Political,24,8.6
+Frieren: Beyond Journey's End,Adventure,Fantasy,Fantasy World,Adult,Female,Fictional,Madhouse,Mortality,Legacy,28,8.9
+Lycoris Recoil,Action,Slice of Life,Modern Japan,Teen,Female,Japanese,A-1 Pictures,Guns,Friendship,13,7.9
+Tomozaki-kun,Romance,Comedy,School,Teen,Male,Japanese,Project No.9,Gaming,Self-Improvement,12,7.3
+Bungo Stray Dogs,Action,Supernatural,Modern Japan,Adult,Male,Multi-ethnic,Bones,Literature,Superpowers,50,8.0
+Kotaro Lives Alone,Slice of Life,Comedy,Modern Japan,Child,Male,Japanese,Liden Films,Childhood,Loneliness,10,8.5
+Ranking of Kings (Season 2),Adventure,Fantasy,Medieval World,Child,Male,Fictional,Wit Studio,Courage,Growth,12,9.0
+Jormungand,Action,Adventure,Various,Adult,Female,Multi-ethnic,White Fox,Arms Dealing,War,24,7.8
+Welcome to Demon School! Iruma-kun,Comedy,Fantasy,Demon World,Teen,Male,Japanese,Bandai Namco Pictures,Demons,School,23,7.8
+Girls' Last Tour,Adventure,Slice of Life,Post-Apocalyptic,Child,Female,Fictional,White Fox,Survival,Loneliness,12,8.1
+Golden Kamuy,Action,Historical,Meiji Era Japan,Adult,Male,Ainu,Geno Studio,Survival,Treasure Hunt,36,8.2
+Somali and the Forest Spirit,Adventure,Fantasy,Post-Apocalyptic,Child,Female,Multi-species,Satelight,Parenting,Friendship,12,7.8
+Violet Evergarden: The Movie,Drama,Fantasy,Post-War,Young Adult,Female,European,Kyoto Animation,Grief,Healing,1,8.5
+Weathering with You,Fantasy,Romance,Modern Japan,Teen,Male,Japanese,CoMix Wave Films,Weather,Love,1,8.1
+The Anthem of the Heart,Drama,Music,Modern Japan,Teen,Female,Japanese,A-1 Pictures,Communication,Friendship,1,7.7
+Whisper of the Heart,Slice of Life,Romance,Modern Japan,Teen,Female,Japanese,Studio Ghibli,Dreams,Love,1,8.0
+Patema Inverted,Sci-Fi,Adventure,Underground City,Teen,Female,Fictional,Purple Cow Studio Japan,Gravity,Discovery,1,7.5
+Your Name.,Fantasy,Romance,Rural Japan,Teen,Male,Japanese,CoMix Wave Films,Body Swap,Fate,1,8.4
+Mirai,Adventure,Family,Modern Japan,Child,Male,Japanese,Studio Chizu,Family,Time Travel,1,7.3
+Ride Your Wave,Romance,Fantasy,Modern Japan,Young Adult,Female,Japanese,Science SARU,Love,Loss,1,7.6
+Children of the Sea,Mystery,Supernatural,Coastal Japan,Teen,Female,Japanese,Studio 4°C,Ocean,Nature,1,7.4
+Liz and the Blue Bird,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Friendship,Music,1,7.9
+Kiznaiver,Sci-Fi,Drama,Modern Japan,Teen,Multi-ethnic,Trigger,Friendship,Pain,12,7.6
+ReLIFE,Slice of Life,Sci-Fi,Modern Japan,Adult,Male,Japanese,TMS Entertainment,Second Chance,Social Issues,13,7.8
+Devil Is a Part-Timer,Comedy,Fantasy,Modern Japan,Adult,Male,Japanese,White Fox,Demons,Working,13,7.7
+Cells at Work!,Comedy,Action,Human Body,Cell,Multi-ethnic,David Production,Biology,Body Function,13,7.6
+Golden Time,Romance,Comedy,University,Young Adult,Male,Japanese,J.C.Staff,Love,Memory Loss,24,7.5
+My Little Monster,Romance,Comedy,School,Teen,Female,Japanese,Brain's Base,Romance,School Life,13,7.5
+Monthly Girls' Nozaki-kun,Comedy,Romance,School,Teen,Female,Japanese,Dogakobo,Romance,Parody,12,8.1
+Tanaka-kun is Always Listless,Comedy,Slice of Life,School,Teen,Male,Japanese,Silver Link,Laziness,School Life,12,7.5
+Recovery of an MMO Junkie,Romance,Comedy,Modern Japan,Adult,Female,Japanese,Signal.MD,Gaming,Love,10,7.6
+Wotakoi: Love Is Hard for Otaku,Romance,Comedy,Workplace,Adult,Male,Japanese,A-1 Pictures,Otaku Culture,Workplace Romance,11,7.9
+Rascal Does Not Dream of a Dreaming Girl,Romance,Supernatural,Modern Japan,Teen,Male,Japanese,CloverWorks,Adolescence,Supernatural,1,8.0
+Kaguya-sama: Love Is War,Romance,Comedy,School,Teen,Male,Japanese,A-1 Pictures,Love,Psychological,12,8.4
+O Maidens in Your Savage Season,Drama,Slice of Life,School,Teen,Female,Japanese,Lay-duce,Adolescence,Sexuality,12,7.6
+Konohana Kitan,Fantasy,Slice of Life,Onsen,Young Adult,Female,Multi-species,Lerche,Spirits,Work,12,7.6
+Yona of the Dawn,Adventure,Fantasy,Ancient Korea,Teen,Female,Fictional,Studio Pierrot,Rebellion,Romance,24,8.3
+Megalobox,Sports,Sci-Fi,Dystopian,Adult,Male,Japanese,TMS Entertainment,Boxing,Technology,13,7.7
+ACCA: 13-Territory Inspection Dept.,Mystery,Drama,Alternate World,Adult,Male,Multi-ethnic,Madhouse,Politics,Organization,12,7.5
+BNA: Brand New Animal,Action,Fantasy,Animal City,Teen,Female,Multi-species,Trigger,Prejudice,Acceptance,12,7.5
+ID: INVADED,Sci-Fi,Mystery,Virtual Reality,Adult,Male,Japanese,NAZ,Crime Solving,Psychological,13,7.5
+Keep Your Hands Off Eizouken!,Adventure,Comedy,School,Teen,Female,Japanese,Science SARU,Anime Creation,Friendship,12,7.8
+The Great Passage,Slice of Life,Work,Modern Japan,Adult,Male,Japanese,Zexcs,Linguistics,Publishing,11,7.7
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+ReCreators,Action,Fantasy,Modern Japan,Adult,Male,Multi-ethnic,Troyca,Fiction,Reality,22,7.3
+Vivy: Fluorite Eye's Song,Sci-Fi,Action,Future,AI,Female,Fictional,Wit Studio,Music,AI,13,8.0
+Sk8 the Infinity,Sports,Action,Modern Japan,Teen,Male,Multi-ethnic,Bones,Skateboarding,Friendship,12,7.4
+Wonder Egg Priority,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,CloverWorks,Grief,Trauma,12,7.5
+A Certain Magical Index,Action,Fantasy,Modern Japan,Teen,Male,Japanese,J.C.Staff,Superpowers,Magic,24,7.6
+Absolute Duo,Action,Sci-Fi,School,Teen,Male,Japanese,8bit,Guns,Partners,12,6.8
+Aesthetica of a Rogue Hero,Action,Fantasy,Alternate World,Teen,Male,Japanese,Arms,Demons,Heroes,12,6.9
+Air Gear,Action,Sports,Modern Japan,Teen,Male,Japanese,Toei Animation,Inline Skating,Friendship,25,7.4
+Aldnoah.Zero,Action,Mecha,Alternate World,Teen,Male,Japanese,A-1 Pictures,War,Politics,24,7.9
+All Out!!,Sports,Action,School,Teen,Male,Japanese,Madhouse,Rugby,Friendship,25,7.5
+Amanchu!,Slice of Life,Comedy,School,Teen,Female,Japanese,J.C.Staff,Scuba Diving,Friendship,12,7.1
+Amnesia,Reverse Harem,Fantasy,Alternate World,Teen,Female,Japanese,Brain's Base,Memory Loss,Romance,12,6.6
+And You Thought There Is Never a Girl Online?,Comedy,Romance,School,Teen,Male,Japanese,Project No.9,Gaming,Love,12,6.8
+Angel's 3Piece!,Slice of Life,Music,School,Teen,Male,Japanese,Project No.9,Music,Friendship,12,7.1
+Ange Vierge,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,Silver Link,Angels,Demons,12,6.5
+Anne-Happy,Comedy,Slice of Life,School,Teen,Female,Japanese,Silver Link,Happiness,Friendship,12,6.9
+Anti-Magic Academy: The 35th Test Platoon,Action,Fantasy,Alternate World,Teen,Male,Japanese,Silver Link,Magic,Guns,12,6.8
+AOKANA: Four Rhythm Across the Blue,Sports,Action,School,Teen,Male,Japanese,Gonzo,Flying,Competition,12,6.9
+Aquarion Logos,Mecha,Action,Alternate World,Teen,Male,Japanese,Satelight,Robots,Heroes,26,7.1
+Arpeggio of Blue Steel,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Satelight,War,Submarines,12,7.3
+Assassination Classroom,Action,Comedy,School,Teen,Male,Japanese,Lerche,Assassins,Teachers,22,8.1
+Asterisk War,Action,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Magic,Guns,24,7.1
+Baka and Test: Summon the Beasts,Comedy,Fantasy,School,Teen,Male,Japanese,Silver Link,Summoning,Tests,13,7.3
+Bakemonogatari,Mystery,Supernatural,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,15,8.3
+Bakuon!!,Slice of Life,Comedy,School,Teen,Female,Japanese,TMS Entertainment,Motorcycles,Friendship,12,7.1
+Barakamon,Slice of Life,Comedy,Rural Japan,Adult,Male,Japanese,Kinema Citrus,Calligraphy,Island Life,12,7.8
+Battery,Sports,Drama,School,Teen,Male,Japanese,Zero-G,Baseball,Friendship,11,7.1
+Beautiful Bones: Sakurako's Investigation,Mystery,Supernatural,Modern Japan,Teen,Female,Japanese,TROYCA,Mystery,Bones,12,7.2
+Ben-To,Action,Comedy,School,Teen,Male,Japanese,David Production,Food, Fighting,12,7.1
+Berserk,Action,Dark Fantasy,Medieval World,Adult,Male,European,OLM,War,Demons,25,8.6
+Big Order,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Asread,Superpowers,Heroes,10,6.8
+Black Butler,Action,Fantasy,Victorian Era,Teen,Male,Japanese,A-1 Pictures,Demons,Butlers,24,7.9
+Black Clover,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Pierrot,Magic,Knights,170,8.1
+Blade Dance of the Elementalers,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,TNK,Elemental Magic, Spirits,12,6.9
+Blassreiter,Action,Sci-Fi,Alternate World,Adult,Male,Japanese,Gonzo, Motorcycles,Apocalypse,24,7.1
+Blood Blockade Battlefront,Action,Fantasy,Alternate World,Adult,Male,Japanese,Bones,Superpowers,Vampires,12,7.8
+Blood-C,Action,Horror,Alternate World,Teen,Female,Japanese,Production I.G,Horror,Action,12,7.1
+Blue Exorcist,Action,Fantasy,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Demons,Exorcists,25,7.8
+Blue Spring Ride,Romance,Drama,School,Teen,Female,Japanese,Production I.G,Love, Loss,12,7.4
+Bodacious Space Pirates,Sci-Fi,Adventure,Space,Teen,Female,Japanese,Satelight,Pirates,Space Travel,26,7.3
+Boogiepop Phantom,Psychological,Horror,Modern Japan,Teen,Male,Japanese,Madhouse,Psychology,Horror,12,7.2
+C3,Action,Horror,Alternate World,Teen,Male,Japanese,Silver Link,Horror, Cubes,12,6.8
+Campione!,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Diomedea,Gods,Heroes,21,7.1
+Captain Earth,Action,Mecha,Alternate World,Teen,Male,Japanese,Bones,Robots,Space,24,7.2
+Cardfight!! Vanguard,Action,Fantasy,Modern Japan,Teen,Male,Japanese,TMS Entertainment,Trading Card Games,Friendship,65,7.1
+Casshern Sins,Action,Sci-Fi,Post-Apocalyptic,Adult,Male,Japanese,Madhouse,Robots,War,24,7.4
+Castle Town Dandelion,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Production IMS,Royalty,Superpowers,12,6.9
+Cerberus,Action,Fantasy,Alternate World,Teen,Male,Japanese,Bridge,Monsters,Dungeons,13,6.7
+Chain Chronicle,Action,Fantasy,Alternate World,Teen,Male,Japanese,Telecom Animation Film,Monsters,Heroes,12,6.8
+Charlotte,Supernatural,School,Modern Japan,Teen,Male,Japanese,P.A. Works,Superpowers,Adolescence,13,7.7
+Cheer Boys!!,Sports,Comedy,School,Teen,Male,Japanese,Kinema Citrus,Cheerleading,Friendship,12,7.1
+Chihayafuru,Sports,Drama,School,Teen,Female,Japanese,Madhouse,Karuta,Poetry,50,8.2
+Children of the Whales,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,J.C.Staff,Whales,Island Life,12,7.2
+Chivalry of a Failed Knight,Fantasy,Romance,School,Teen,Male,Japanese,Silver Link,Knights,Magic,12,7.1
+Chrono Crusade,Action,Fantasy,Alternate World,Teen,Male,Japanese,Gonzo,Demons,Time Travel,24,7.3
+Clannad,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Family,Grief,49,8.4
+Classroom of the Elite,Psychological,Drama,School,Teen,Male,Japanese,Lerche,Psychology,Social Hierarchy,12,7.8
+Claymore,Action,Fantasy,Medieval World,Adult,Female,Japanese,Madhouse,Monsters,War,26,7.9
+Clockwork Planet,Sci-Fi,Fantasy,Alternate World,Teen,Male,Japanese,Xebec,Clockwork,Gears,12,6.9
+Code:Breaker,Action,Fantasy,Alternate World,Teen,Male,Japanese,Kinema Citrus,Superpowers,Revenge,13,7.1
+Code:Realize ~Guardian of Rebirth~,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,M.S.C,Steampunk,Superpowers,12,6.8
+D.Gray-man,Action,Fantasy,Alternate World,Teen,Male,Japanese,TMS Entertainment,Demons,Exorcists,103,7.9
+Dagashi Kashi,Comedy,Slice of Life,Rural Japan,Teen,Male,Japanese,Feel,Snacks,Family,24,7.1
+Daimidaler: Prince vs. Penguin Empire,Action,Comedy,Alternate World,Teen,Male,Japanese,TNK,Robots,Penguins,12,6.8
+Dance with Devils,Fantasy,Romance,Alternate World,Teen,Female,Japanese,Brain's Base,Demons,Vampires,12,6.9
+Danganronpa,Psychological,Thriller,Alternate World,Teen,Male,Japanese,Lerche,Psychology,Murder,24,7.8
+Darker than Black,Action,Sci-Fi,Alternate World,Adult,Male,Japanese,Bones,Superpowers,Conspiracy,50,8.1
+Date A Live,Action,Fantasy,Alternate World,Teen,Male,Japanese,AIC PLUS+,Dating,Superpowers,22,7.3
+Days,Sports,Drama,School,Teen,Male,Japanese,MAPPA,Soccer,Friendship,24,7.8
+Deadman Wonderland,Action,Horror,Alternate World,Teen,Male,Japanese,Kinema Citrus,Prison,Superpowers,12,7.4
+Death March to the Parallel World Rhapsody,Fantasy,Adventure,Alternate World,Adult,Male,Japanese,Silver Link,Transported,Superpowers,12,7.1
+Death Parade,Psychological,Fantasy,Alternate World,Adult,Male,Japanese,Madhouse,Death,Games,12,8.1
+Deca-Dence,Action,Sci-Fi,Post-Apocalyptic,Teen,Female,Fictional,NUT,Survival,Technology,12,7.5
+Deep Blue Song,Music,Drama,School,Teen,Female,Japanese,MAPPA,Music,Friendship,12,7.1
+Demon King Daimao,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Artland,Demons,Magic,12,7.1
+Denki-Gai,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Shin-Ei Animation, Otaku Culture,Workplace,12,7.1
+Descending Stories: Showa Genroku Rakugo Shinju,Drama,Historical,Showa Era Japan,Adult,Male,Japanese,Studio Deen,Rakugo,Tradition,13,8.6
+Desert Punk,Action,Sci-Fi,Post-Apocalyptic,Adult,Male,Japanese,Gonzo,Mercenaries,Survival,24,7.4
+Detective Conan,Mystery,Comedy,Modern Japan,Teen,Male,Japanese,TMS Entertainment,Mystery,Detective,900,8.1
+Devil is a Part-Timer,Comedy,Fantasy,Modern Japan,Adult,Male,Japanese,White Fox,Demons,Working,13,7.7
+Devil May Cry,Action,Fantasy,Alternate World,Adult,Male,Japanese,Madhouse,Demons, Mercenaries,12,7.2
+Diabolik Lovers,Reverse Harem,Fantasy,Alternate World,Teen,Female,Japanese,Zexcs,Vampires,Romance,12,6.8
+E's Otherwise,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Pierrot,Psychic Powers,War,26,7.2
+Earth Maiden Arjuna,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,Satelight,Environmentalism,Superpowers,13,7.1
+Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu,Comedy,Slice of Life,School,Teen,Female,Japanese,AIC, Astronomy,Club,10,6.8
+Eccentric Family,Fantasy,Comedy,Modern Japan,Adult,Male,Japanese,P.A. Works,Tanuki,Family,13,7.8
+Eden of the East,Action,Mystery,Alternate World,Adult,Male,Japanese,Production I.G,Conspiracy,Psychology,11,7.9
+Ef: A Tale of Memories,Romance,Drama,Modern Japan,Teen,Male,Japanese,Shaft,Love,Loss,12,7.4
+Ergo Proxy,Sci-Fi,Mystery,Dystopian,Adult,Male,Fictional,Manglobe,Identity,Philosophy,23,8.0
+Eromanga Sensei,Comedy,Romance,School,Teen,Male,Japanese,A-1 Pictures,Light Novels,Sister Complex,12,7.1
+Etotama,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Shirogumi,Zodiac Animals, Heroes,12,6.9
+Evangelion: 3.0 You Can (Not) Redo,Action,Sci-Fi,Post-Apocalyptic,Teen,Male,Japanese,Khara,Psychology,Angels,1,8.1
+Everyday Life with Monster Girls,Comedy,Fantasy,Alternate World,Teen,Male,Japanese, Lerche,Monsters,Harem,12,6.9
+Excel Saga,Comedy,Sci-Fi,Modern Japan,Adult,Male,Japanese,J.C.Staff,Parody,Workplace,26,7.6
+Expelled from Paradise,Sci-Fi,Action,Space,Adult,Male,Japanese,Toei Animation,Space Travel,Artificial Intelligence,1,7.4
+Eyeshield 21,Sports,Comedy,School,Teen,Male,Japanese,Gallop,American Football,Friendship,145,7.8
+Fairy Tail,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,A-1 Pictures,Magic,Guilds,275,8.1
+Familiar of Zero,Fantasy,Romance,Alternate World,Teen,Male,Japanese,J.C.Staff,Magic,Transported,49,7.4
+Fantasista Doll,Comedy,Fantasy,Alternate World,Teen,Female,Japanese,Hoods Entertainment,Dolls,Card Games,12,6.8
+Fastest Finger First,Comedy,School,Modern Japan,Teen,Male,Japanese,TMS Entertainment,Quiz,Club,12,7.1
+Fate/Apocrypha,Action,Fantasy,Alternate World,Adult,Male,Japanese,A-1 Pictures,Heroes,War,25,7.8
+Fate/Grand Order,Action,Fantasy,Alternate World,Adult,Male,Japanese,Production I.G,Heroes,Time Travel,1,7.4
+Fate/stay night,Action,Fantasy,Alternate World,Teen,Male,Japanese,Studio Deen,Heroes,War,24,7.9
+Fate/Zero,Action,Fantasy,Alternate World,Adult,Male,Japanese,ufotable,Heroes,War,25,8.4
+Flip Flappers,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,Studio 3Hz,Parallel Worlds,Superpowers,13,7.2
+Food Wars!,Comedy,Ecchi,Cooking,Teen,Male,Japanese,J.C.Staff,Food,Competition,24,7.9
+Free!,Sports,Comedy,School,Teen,Male,Japanese,Kyoto Animation,Swimming,Friendship,12,7.4
+Freezing,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,A.C.G.T,Superpowers,War,12,7.1
+From the New World,Sci-Fi,Fantasy,Alternate World,Teen,Female,Japanese,A-1 Pictures,Psychic Powers,Utopia,25,8.1
+Fruits Basket,Slice of Life,Romance,Modern Japan,Teen,Female,Japanese,TMS Entertainment,Family,Supernatural,26,8.2
+Full Metal Panic!,Action,Comedy,Alternate World,Teen,Male,Japanese,Gonzo,Mecha,War,24,7.8
+Fullmetal Alchemist,Action,Adventure,Fantasy,Teen,Male,Fictional,Bones,Alchemy,Brotherhood,51,9.1
+Gakuen Utopia Manabi Straight!,Slice of Life,Comedy,School,Teen,Female,Japanese,ufotable,School Life,Friendship,12,7.1
+Gangsta.,Action,Crime,Modern City,Adult,Male,Multi-Ethnic,Manglobe,Mafia,Survival,12,7.4
+Gankutsuou: The Count of Monte Cristo,Sci-Fi,Adventure,Space,Adult,Male,Japanese,Gonzo,Revenge,Space Travel,24,7.9
+Garo: The Carved Seal of Flames,Action,Fantasy,Alternate World,Adult,Male,Japanese,MAPPA,Demons,Knights,24,7.4
+Gatchaman Crowds,Sci-Fi,Action,Modern Japan,Teen,Male,Japanese,Tatsunoko Production,Heroes,Superpowers,12,7.3
+GATE,Action,Fantasy,Alternate World,Adult,Male,Japanese,A-1 Pictures,War,Transported,24,7.8
+Gekkan Shoujo Nozaki-kun,Comedy,Romance,School,Teen,Female,Japanese,Dogakobo,Romance,Parody,12,8.1
+Genshiken,Comedy,Slice of Life,University,Young Adult,Male,Japanese,Arms, Otaku Culture,Club,12,7.4
+Ghost Hunt,Supernatural,Mystery,Modern Japan,Adult,Male,Japanese,J.C.Staff,Ghosts,Paranormal,25,7.6
+Ghost in the Shell: Stand Alone Complex,Sci-Fi,Cyberpunk,Future,Adult,Male,Japanese,Production I.G,Cyberpunk,Psychology,52,8.4
+Gintama,Action,Comedy,Historical,Adult,Male,Japanese,Sunrise,Samurai,Parody,201,9.0
+Girl Friend BETA,Comedy,Romance,School,Teen,Male,Japanese,Silver Link,Dating Sim,Club,12,6.8
+Girls Beyond the Wasteland,Comedy,Romance,School,Teen,Male,Japanese,Project No.9,Game Development,Romance,12,7.1
+Girls' Last Tour,Adventure,Slice of Life,Post-Apocalyptic,Child,Female,Fictional,White Fox,Survival,Loneliness,12,8.1
+GJ Club,Comedy,Slice of Life,School,Teen,Male,Japanese,Dogakobo,School Life,Club,12,7.1
+Glass Fleet,Sci-Fi,Adventure,Space,Adult,Male,Japanese,Satelight,Space Travel,War,26,7.3
+Glasslip,Supernatural,Romance,Modern Japan,Teen,Male,Japanese,P.A. Works,Superpowers,Romance,13,7.1
+God Eater,Action,Sci-Fi,Post-Apocalyptic,Teen,Male,Japanese,ufotable,Monsters,Superpowers,13,7.4
+Golden Time,Romance,Comedy,University,Young Adult,Male,Japanese,J.C.Staff,Love,Memory Loss,24,7.5
+Golgo 13,Action,Thriller,Modern Japan,Adult,Male,Japanese,TV Tokyo,Assassins,Politics,26,7.6
+Gonna Be the Twin-Tail!!,Action,Comedy,Alternate World,Teen,Male,Japanese,Production IMS,Superpowers,Harem,12,6.9
+Good Luck Girl!,Comedy,Supernatural,Modern Japan,Teen,Female,Japanese,Sunrise,Wealth,Superpowers,13,7.3
+Gosick,Mystery,Romance,Historical,Teen,Male,Japanese,Bones,Mystery,Romance,24,7.9
+Goulart Knights,Action,Fantasy,Alternate World,Adult,Male,Japanese,Arms,Demons,Knights,12,7.1
+Granblue Fantasy,Action,Fantasy,Alternate World,Adult,Male,Japanese,A-1 Pictures,Adventure,Fantasy,14,7.4
+Grand Blue,Comedy,Slice of Life,University,Teen,Male,Japanese,Zero-G,Comedy,College Life,12,8.3
+Great Passage,Slice of Life,Work,Modern Japan,Adult,Male,Japanese,Zexcs,Linguistics,Publishing,11,7.7
+Great Teacher Onizuka,Comedy,Slice of Life,School,Adult,Male,Japanese,Pierrot,Teaching,Delinquents,43,8.3
+Green Green,Comedy,Romance,School,Teen,Male,Japanese,Studio Matrix,School Life,Romance,12,6.8
+Grenadier,Action,Comedy,Alternate World,Teen,Male,Japanese,Studio Live,Guns,War,12,7.1
+Grimgar of Fantasy and Ash,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,A-1 Pictures,Transported,Fantasy World,12,7.4
+Grimoire of Zero,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,White Fox,Magic,Beasts,12,7.3
+Ground Control to Psychoelectric Girl,Comedy,Slice of Life,Modern Japan,Teen,Male,Japanese,Shaft,Family,Psychology,22,7.8
+Guilty Crown,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Production I.G,Superpowers,War,22,7.6
+Gundam Build Fighters,Action,Mecha,Alternate World,Teen,Male,Japanese,Sunrise,Gundam,Model Kits,25,7.8
+Gundam Reconguista in G,Action,Mecha,Space,Teen,Male,Japanese,Sunrise,Gundam,Space Travel,26,7.4
+Gundam Unicorn,Action,Mecha,Space,Adult,Male,Japanese,Sunrise,Gundam,Space Travel,7,8.1
+Gunslinger Girl,Action,Drama,Modern Italy,Adult,Male,Japanese,Madhouse,Assassins,Psychology,26,7.8
+Gurren Lagann,Action,Mecha,Post-Apocalyptic,Teen,Male,Fictional,Gainax,Courage,Fighting,27,8.7
+Haikyuu!!,Sports,Comedy,School,Teen,Male,Japanese,Production I.G,Volleyball,Teamwork,25,8.7
+Hakata Tonkotsu Ramens,Action,Comedy,Modern Japan,Adult,Male,Japanese,Satelight,Assassins,Food,12,7.4
+Hakkenden: Eight Dogs of the East,Action,Fantasy,Alternate World,Teen,Male,Japanese,Studio Deen,Demons,Spirits,26,7.3
+Hakuoki: Demon of the Fleeting Blossom,Action,Romance,Historical,Teen,Female,Japanese,Studio Deen,Samurai,Romance,12,7.4
+Hamatora,Action,Mystery,Modern Japan,Adult,Male,Japanese,NAZ,Superpowers,Mystery,24,7.3
+Hanamonogatari,Mystery,Supernatural,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,5,8.1
+Hanasaku Iroha,Slice of Life,Comedy,Rural Japan,Teen,Female,Japanese,P.A. Works,Hot Springs,Family,26,7.8
+Hand Shakers,Action,Fantasy,Alternate World,Teen,Male,Japanese,GoHands,Superpowers,Partners,12,6.8
+Handa-kun,Comedy,Slice of Life,School,Teen,Male,Japanese,Diomedea,Delinquents,School Life,12,7.4
+HappinessCharge PreCure!,Magical Girl,Comedy,Modern Japan,Child,Female,Japanese,Toei Animation,Superpowers,Friendship,49,7.1
+HaruChika: Haruta & Chika,Music,Mystery,School,Teen,Male,Japanese,P.A. Works,Music,Mystery,12,7.1
+Harukana Receive,Sports,Comedy,School,Teen,Female,Japanese,C2C,Beach Volleyball,Friendship,12,7.3
+Hataraku Maou-sama!,Comedy,Fantasy,Modern Japan,Adult,Male,Japanese,White Fox,Demons,Workplace,13,7.7
+Hataraku Saibou,Comedy,Action,Human Body,Cell,Multi-ethnic,David Production,Biology,Body Function,13,7.6
+Haven't You Heard? I'm Sakamoto,Comedy,Slice of Life,School,Teen,Male,Japanese,Studio Deen,School Life,Delinquents,12,7.8
+Hayate the Combat Butler,Comedy,Action,Modern Japan,Teen,Male,Japanese,SynergySP,Butlers,Debt,52,7.6
+Heavy Object,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,J.C.Staff,War,Mecha,24,7.4
+Hell Girl,Supernatural,Horror,Modern Japan,Teen,Female,Japanese,Studio Deen,Horror,Revenge,26,7.4
+Hello!! KINMOZA!,Comedy,Slice of Life,School,Teen,Female,Japanese,Studio Gokumi,School Life,Exchange Students,12,7.3
+Hellsing,Action,Horror,Modern Europe,Adult,Male,European,Gonzo,Vampires,Violence,13,7.7
+Hentai Ouji to Warawanai Neko,Comedy,Romance,School,Teen,Male,Japanese,J.C.Staff,Romance,Supernatural,12,7.1
+Heroic Age,Action,Fantasy,Alternate World,Teen,Male,Japanese,Xebec,War,Heroes,26,7.4
+Hetalia: Axis Powers,Comedy,Historical,World War II,Adult,Male,Multi-ethnic,Studio Deen,History,Parody,52,7.6
+Heybot!,Comedy,Action,Modern Japan,Child,Male,Japanese,OLM,Robots,Friendship,50,7.1
+High School DxD,Action,Comedy,Fantasy,Teen,Male,Japanese,TNK,Angels,Demons,12,7.4
+High School Fleet,Action,Comedy,School,Teen,Female,Japanese,Production IMS,Naval Warfare,School Life,12,7.3
+High School of the Dead,Action,Horror,Modern Japan,Teen,Male,Japanese,Madhouse,Zombies,Apocalypse,12,7.6
+Higurashi: When They Cry,Mystery,Horror,Modern Japan,Teen,Male,Japanese,Studio Deen,Mystery,Horror,50,7.8
+Himouto! Umaru-chan,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,Dogakobo,Gamers, Otaku Culture,12,7.4
+Hinamatsuri,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,feel.,Yakuza,Psychic Powers,12,7.8
+Hitorijime My Hero,Romance,Comedy,School,Teen,Male,Japanese,Encourage Films,Romance,Delinquents,12,7.4
+Holmes of Kyoto,Mystery,Historical,Kyoto,Adult,Male,Japanese,Seven, Mystery,Antiques,12,7.3
+Holy Knight,Action,Fantasy,Alternate World,Teen,Male,Japanese,OLM,Demons,Knights,2,6.8
+Home Tutor Hitman Reborn!,Action,Comedy,Modern Japan,Teen,Male,Japanese,Artland,Mafia,Assassins,203,7.9
+Honey and Clover,Slice of Life,Romance,Modern Japan,Teen,Male,Japanese,J.C.Staff,Art,Love,24,8.2
+Hoozuki no Reitetsu,Comedy,Supernatural,Hell,Adult,Male,Japanese,Wit Studio,Demons,Bureaucracy,13,7.8
+Horizon in the Middle of Nowhere,Action,Fantasy,Alternate World,Teen,Male,Japanese,Sunrise,War,Superpowers,26,7.4
+Hortensia Saga,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Liden Films,War,Knights,12,7.1
+Hourou Musuko,Slice of Life,Drama,Modern Japan,Teen,Male,Japanese,AIC,Transgender,Coming of Age,11,7.8
+House of Five Leaves,Action,Historical,Edo Period Japan,Adult,Male,Japanese,Manglobe,Samurai,Ronin,12,7.8
+How Clumsy you are Miss Ueno,Comedy,Romance,School,Teen,Male,Japanese,Lesprit,Romance,Inventions,12,7.1
+How Not to Summon a Demon Lord,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Ajia-do,Transported,Demons,12,7.4
+Humanity Has Declined,Comedy,Fantasy,Alternate World,Teen,Female,Japanese,AIC, Fairies,Humanity,12,7.8
+Hundred,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Production IMS,War,Superpowers,12,7.1
+Hunter x Hunter,Adventure,Action,Fantasy,Child,Male,Fictional,Madhouse,Adventure,Friendship,148,9.1
+Hybrid x Heart Magias Academy Ataraxia,Action,Comedy,Fantasy,Teen,Male,Japanese,Production IMS,Mecha,Superpowers,12,7.1
+Hyperdimension Neptunia,Action,Comedy,Fantasy,Teen,Female,Japanese,David Production,Gaming,Parody,12,7.1
+Idol Incidents,Comedy,Idol,Modern Japan,Teen,Female,Japanese,MAPPA,Idols,Politics,12,7.1
+If Her Flag Breaks,Comedy,Romance,School,Teen,Male,Japanese,Hoods Entertainment,Romance,Flags,13,7.1
+Ikki Tousen,Action,Comedy,Historical,Teen,Female,Japanese,Arms,Warriors,Breasts,13,6.8
+In Another World with My Smartphone,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Production Reed,Transported,Smartphone,12,7.4
+In Search of the Lost Future,Comedy,Romance,School,Teen,Male,Japanese,feel.,Romance,Time Travel,12,7.1
+Infinite Dendrogram,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,NAZ,Game,Virtual Reality,13,7.4
+Infinite Stratos,Action,Comedy,Alternate World,Teen,Male,Japanese,8bit,Mecha,Harem,12,7.1
+Initial D First Stage,Sports,Action,Japan,Teen,Male,Japanese,Gallop,Racing,Cars,26,8.1
+Inuyasha,Action,Fantasy,Feudal Japan,Teen,Male,Japanese,Sunrise,Demons,Adventure,193,7.9
+Invaders of the Rokujouma!?,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Silver Link,Aliens,Superpowers,12,7.1
+Isekai Cheat Magician,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Encourage Films,Transported,Magic,12,7.4
+Isekai Izakaya "Nobu",Fantasy,Comedy,Alternate World,Adult,Male,Japanese,Sunrise,Food,Transported,24,7.8
+Island,Sci-Fi,Romance,Alternate World,Teen,Male,Japanese,feel.,Island,Love,12,7.1
+Is the Order a Rabbit?,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,White Fox,Cafes, Rabbits,12,7.4
+Izetta: The Last Witch,Action,Fantasy,Alternate World,Teen,Female,Japanese,Ajia-do,War,Witches,12,7.4
+Jewelpet,Comedy,Fantasy,Modern Japan,Child,Female,Japanese,Studio Comet,Jewels, Animals,52,6.8
+Jinsei,Comedy,Slice of Life,School,Teen,Male,Japanese,feel.,School Life,Journalism,13,7.1
+JoJo's Bizarre Adventure,Action,Fantasy,Alternate World,Teen,Male,Japanese,David Production,Vampires,Adventure,152,8.4
+Joker Game,Action,Mystery,Historical,Adult,Male,Japanese,Production I.G,Spies,War,12,7.8
+Joukamachi no Dandelion,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Production IMS,Royalty,Superpowers,12,7.1
+Jouran: The Princess of Snow and Blood,Action,Fantasy,Historical,Teen,Female,Japanese,Bakken Record,Samurai,Vampires,12,7.4
+Just Because!,Comedy,Romance,School,Teen,Male,Japanese,Pine Jam,Romance,Friendship,12,7.4
+K-ON!,Slice of Life,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Friendship,13,7.9
+Kabaneri of the Iron Fortress,Action,Fantasy,Alternate World,Teen,Male,Japanese,Wit Studio,Zombies,Steampunk,12,7.8
+Kagegurui,Psychological,Thriller,School,Teen,Female,Japanese,MAPPA,Gambling,Psychology,12,7.8
+Kaiju Girls,Comedy,Action,Modern Japan,Teen,Female,Japanese,Studio Pierrot,Monsters,Idols,12,6.8
+Kakuriyo: Bed & Breakfast for Spirits,Fantasy,Romance,Alternate World,Teen,Female,Japanese,Gonzo,Spirits,Romance,26,7.8
+Kamisama Hajimemashita,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,TMS Entertainment,Shrines,Gods,13,7.8
+Kamisama no Memo-chō,Mystery,Comedy,Modern Japan,Teen,Male,Japanese,J.C.Staff,Detective,NEET,12,7.4
+KanColle,Action,Comedy,Alternate World,Teen,Female,Japanese,Diomedea,Warships,Girls,12,7.1
+Karakuri Circus,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Satelight,Androids,War,36,7.4
+Kashimashi: Girl Meets Girl,Comedy,Romance,School,Teen,Female,Japanese,Studio Hibari,Romance,Love Triangle,13,6.8
+Katanagatari,Action,Fantasy,Historical,Teen,Male,Japanese,White Fox,Samurai,Adventure,12,7.8
+Kemonozume,Action,Fantasy,Alternate World,Teen,Male,Japanese,Studio 4°C,Shokujin,War,13,7.1
+Kenka Bancho Otome,Action,Comedy,School,Teen,Female,Japanese,Project No.9,Delinquents,Romance,12,7.1
+Killing Bites,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Liden Films,Beasts,Fighting,12,7.1
+Kimikiss: Pure Rouge,Comedy,Romance,School,Teen,Male,Japanese,Satelight,Romance,Love Triangle,24,7.1
+King's Game,Horror,Psychological,Modern Japan,Teen,Male,Japanese,Seven,Horror,Game,12,7.1
+Kino's Journey,Adventure,Fantasy,Alternate World,Teen,Female,Japanese,L Lerche,Travel,Philosophy,13,7.8
+Kiss Him Not Me,Comedy,Romance,School,Teen,Female,Japanese,Brain's Base,Romance,Reverse Harem,12,7.4
+Kiznaiver,Sci-Fi,Drama,Modern Japan,Teen,Multi-ethnic,Trigger,Friendship,Pain,12,7.6
+Kizumonogatari,Action,Fantasy,Alternate World,Teen,Male,Japanese,Shaft,Vampires,Monsters,3,8.1
+Knight's & Magic,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,8bit,Transported,Robots,13,7.4
+Kobayashi-san Chi no Maid Dragon,Comedy,Fantasy,Modern Japan,Adult,Female,Japanese,Kyoto Animation,Dragons,Maids,13,8.1
+Koi Iwa Minorin!,Comedy,Romance,School,Teen,Male,Japanese,DOGAKobo,Romance,Music,13,7.1
+Kokoro Connect,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,Silver Link,Body Swapping,Friendship,13,7.8
+KonoSuba: God's Blessing on This Wonderful World!,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Studio Deen,Transported,Parody,10,8.0
+Kore wa Zombie Desu ka?,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Studio Deen,Zombies,Harem,22,7.4
+Kotoura-san,Comedy,Supernatural,Modern Japan,Teen,Female,Japanese,ZEXCS,ESP,Psychic Powers,12,7.4
+Koufuku Graffiti,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,Shaft,Food,Cooking,12,7.1
+Kuma Miko,Comedy,Supernatural,Rural Japan,Teen,Female,Japanese,Kinema Citrus,Shrines,Bears,12,7.1
+Kumamiko: Girl Meets Bear,Comedy,Supernatural,Rural Japan,Teen,Female,Japanese,Kinema Citrus,Shrines,Bears,12,7.1
+Kurenai,Action,Comedy,Modern Japan,Teen,Male,Japanese,Brain's Base,Assassins,Family,12,7.4
+Kurogane no Linebarrels,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Gonzo,Mecha,War,24,7.1
+Kuroko's Basketball,Sports,Comedy,School,Teen,Male,Japanese,Production I.G,Basketball,Supernatural,75,8.1
+Kuromukuro,Action,Sci-Fi,Historical,Teen,Male,Japanese,P.A. Works,Mecha,Samurai,13,7.4
+Kyoukai no Kanata,Beyond the Boundary,Supernatural,Modern Japan,Teen,Male,Japanese,Kyoto Animation,Youmu, Spirits,12,7.8
+Kyousougiga,Action,Fantasy,Alternate World,Teen,Male,Japanese,Toei Animation,War,Family,10,7.4
+Ladies versus Butlers!,Comedy,Romance,School,Teen,Male,Japanese,Xebec,Romance,Butlers,12,6.8
+Lagrange: The Flower of Rin-ne,Sci-Fi,Comedy,Alternate World,Teen,Female,Japanese,Xebec,Mecha,War,24,7.1
+Land of the Lustrous,Action,Fantasy,Future Earth,Non-Binary,Multi-Mineral,Orange,Gemstones,Survival,12,7.9
+Last Exile,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Gonzo,Steampunk,War,26,7.8
+Last Hope,Sci-Fi,Action,Space,Adult,Male,Japanese,Satelight,Space Travel,War,26,7.4
+Laughing Under the Clouds,Action,Comedy,Historical,Teen,Male,Japanese,DOGAKobo,Samurai,Yokai,12,7.4
+Le Chevalier D'Eon,Historical,Mystery,Historical,Adult,Male,Japanese,Production I.G,History,Mystery,24,7.8
+Legend of the Galactic Heroes,Sci-Fi,Space Opera,Space,Adult,Male,Multi-Ethnic,Artland,War,Politics,110,9.0
+Legends of the Dark King,Action,Fantasy,Alternate World,Teen,Male,Japanese,Satelight,Demons,War,13,7.1
+Level E,Comedy,Sci-Fi,Alternate World,Teen,Male,Japanese,Pierrot,Aliens,Superpowers,13,7.8
+Little Busters!,Comedy,Drama,School,Teen,Male,Japanese,J.C.Staff,Friendship,Psychology,26,7.8
+Little Witch Academia,Action,Fantasy,Alternate World,Teen,Female,Japanese,Trigger,Witches,Magic,25,7.9
+Locodol,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,feel.,Idols,Local Promotion,12,7.1
+Log Horizon,Action,Adventure,Isekai,Adult,Male,Fictional,Satelight,Gaming,Strategy,25,7.8
+Long Riders!,Comedy,Sports,Modern Japan,Teen,Female,Japanese,Actas,Cycling,Friendship,12,7.1
+Lord Marksman and Vanadis,Action,Fantasy,Alternate World,Teen,Male,Japanese,Satelight,War,Archery,13,7.4
+Lostorage incited WIXOSS,Psychological,Fantasy,Modern Japan,Teen,Female,Japanese,J.C.Staff,Card Games,Psychology,12,7.1
+Love and Lies,Romance,Drama,Modern Japan,Teen,Male,Japanese,Liden Films,Romance,Love Triangle,12,7.4
+Love Hina,Comedy,Romance,School,Teen,Male,Japanese,Xebec,Romance,Harem,24,7.1
+Love Lab,Comedy,Romance,School,Teen,Female,Japanese,DOGAKobo,Romance,Love Triangle,13,7.4
+Love Live! School Idol Project,Comedy,Idol,School,Teen,Female,Japanese,Sunrise,Idols,Music,26,7.8
+Love Chunibyo & Other Delusions,Comedy,Romance,School,Teen,Male,Japanese,Kyoto Animation,Romance,Delusions,24,8.1
+Lucky Star,Comedy,Slice of Life,School,Teen,Female,Japanese,Kyoto Animation,Parody,Daily Life,24,7.6
+Lupin III,Action,Comedy,Modern Japan,Adult,Male,Japanese,TMS Entertainment,Thief,Adventure,26,7.9
+Lupin III: The Woman Called Fujiko Mine,Action,Comedy,Modern Japan,Adult,Female,Japanese,POWERS,Thief,Adventure,13,7.8
+M3: The Dark Metal,Sci-Fi,Action,Alternate World,Teen,Male,Japanese,Satelight,Mecha,War,24,7.1
+Macross Delta,Sci-Fi,Action,Space,Teen,Male,Japanese,Satelight,Mecha,Music,26,7.4
+Macross Frontier,Sci-Fi,Action,Space,Teen,Male,Japanese,Satelight,Mecha,Music,25,7.8
+Made in Abyss,Adventure,Fantasy,Fantasy World,Child,Female,Fictional,Kinema Citrus,Exploration,Survival,13,8.5
+Magi: The Labyrinth of Magic,Adventure,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Magic,Adventure,25,7.8
+Magical Girl Lyrical Nanoha,Action,Magical Girl,Modern Japan,Teen,Female,Japanese,Seven Arcs,Magic,Adventure,13,7.4
+Magical Girl Raising Project,Fantasy,Action,Modern Japan,Teen,Female,Japanese,Lerche,Magic,Game,12,7.1
+Mahou Shoujo Ore,Fantasy,Comedy,Modern Japan,Teen,Male,Japanese,Pierrot,Magic,Idols,12,7.1
+Mahouka Koukou no Rettousei,Fantasy,Adventure,Modern Japan,Teen,Male,Japanese,Madhouse,Magic,School,26,7.8
+Maid Sama!,Comedy,Romance,School,Teen,Female,Japanese,J.C.Staff,Romance,School Life,26,7.8
+Majestic Prince,Sci-Fi,Action,Space,Teen,Male,Japanese,DOGAKobo,Mecha,War,24,7.4
+Maken-Ki!,Action,Comedy,School,Teen,Male,Japanese,AIC,Superpowers,Harem,12,6.8
+March Comes in like a Lion,Slice of Life,Drama,Modern Japan,Teen,Male,Japanese,Shaft,Grief,Growth,22,8.5
+Maria the Virgin Witch,Fantasy,Comedy,Historical,Teen,Female,Japanese,Production I.G,Witches,War,12,7.4
+Mashiroiro Symphony,Comedy,Romance,School,Teen,Male,Japanese,Manglobe,Romance,Music,12,7.1
+Masou Gakuen HxH,Action,Comedy,Fantasy,Teen,Male,Japanese,Production IMS,Mecha,Harem,12,6.8
+Master of Martial Hearts,Action,Martial Arts,Modern Japan,Teen,Female,Japanese,Arms,Martial Arts,Tournament,5,6.5
+Matoi the Sacred Slayer,Action,Fantasy,Modern Japan,Teen,Female,Japanese,White Fox,Exorcists,Shrines,12,7.1
+Mawaru Penguindrum,Psychological,Fantasy,Modern Japan,Teen,Male,Japanese,Brain's Base,Psychology,Fate,24,7.8
+Mayo Chiki!,Comedy,Romance,School,Teen,Male,Japanese,feel.,Romance,Butlers,13,7.1
+Mazinger Z,Action,Mecha,Alternate World,Teen,Male,Japanese,Toei Animation,Mecha,War,92,7.6
+Medaka Box,Action,Comedy,School,Teen,Female,Japanese,Gainax,Superpowers,School Life,24,7.4
+Megalo Box,Sports,Sci-Fi,Dystopian,Adult,Male,Japanese,TMS Entertainment,Boxing,Technology,13,7.7
+Mekakucity Actors,Sci-Fi,Action,Modern Japan,Teen,Male,Japanese,Shaft,Superpowers,Music,12,7.1
+Michiko & Hatchin,Action,Adventure,Fictional South America,Adult,Female,Multi-ethnic,Manglobe,Freedom,Family,22,8.2
+Mikagura School Suite,Comedy,Fantasy,School,Teen,Female,Japanese,DOGAKobo,Superpowers,School Life,12,7.1
+Military!,Comedy,Action,Modern Japan,Teen,Male,Japanese,Arms,Military,School Life,12,6.8
+Million Doll,Comedy,Idol,Modern Japan,Teen,Female,Japanese,Asahi Production,Idols,Music,11,6.8
+Minami-ke,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,Asread,School Life,Family,13,7.4
+Mirai Nikki,Fantasy,Psychological,Modern Japan,Teen,Male,Japanese,Asread,Diary,Psychology,26,7.8
+Miss Kobayashi's Dragon Maid,Comedy,Fantasy,Modern Japan,Adult,Female,Fictional,Kyoto Animation,Dragons,Daily Life,13,8.1
+Mob Psycho 100,Action,Comedy,Modern Japan,Teen,Male,Japanese,Bones,Superpowers,Psychology,12,8.1
+Mobile Suit Gundam,Action,Mecha,Space,Teen,Male,Japanese,Sunrise,Mecha,War,43,8.2
+Mobile Suit Gundam: Iron-Blooded Orphans,Action,Mecha,Space,Teen,Male,Japanese,Sunrise,Mecha,War,50,8.1
+Mobile Suit Gundam Unicorn,Action,Mecha,Space,Adult,Male,Japanese,Sunrise,Mecha,War,7,8.4
+Mobile Suit Zeta Gundam,Action,Mecha,Space,Teen,Male,Japanese,Sunrise,Mecha,War,50,8.2
+Monogatari Series,Action,Fantasy,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,28,8.3
+Monster,Mystery,Psychological,Modern Japan,Adult,Male,Japanese,Madhouse,Psychology,Serial Killer,74,8.8
+Monster Musume,Comedy,Fantasy,Modern Japan,Adult,Male,Japanese,Lerche,Monsters,Harem,12,7.1
+Monthly Girls' Nozaki-kun,Comedy,Romance,School,Teen,Female,Japanese,DOGAKobo,Romance,Parody,12,8.1
+Moribito: Guardian of the Spirit,Action,Fantasy,Alternate World,Teen,Female,Japanese,Production I.G,Fantasy,Adventure,26,7.8
+Mouretsu Pirates,Sci-Fi,Adventure,Space,Teen,Female,Japanese,Satelight,Pirates,Space Travel,26,7.3
+Mouse,Comedy,Romance,Modern Japan,Adult,Male,Japanese,Studio Deen,Romance,Thief,12,6.8
+Moyashimon,Comedy,Supernatural,University,Young Adult,Male,Japanese,Shirogumi,Microorganisms,University Life,11,7.4
+Mr. Osomatsu,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Pierrot,Comedy,Parody,25,7.8
+Mushishi,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,26,8.7
+Mushishi Zoku Shou,Fantasy,Slice of Life,Feudal Japan,Adult,Male,Japanese,Artland,Nature,Supernatural,10,8.8
+Muv-Luv Alternative: Total Eclipse,Action,Sci-Fi,Alternate World,Adult,Male,Japanese,Satelight,Mecha,War,24,7.4
+My Bride is a Mermaid,Comedy,Romance,Modern Japan,Teen,Male,Japanese,Gonzo,Romance,Mermaids,26,7.4
+My Hero Academia,Action,Superhero,Modern Japan,Teen,Male,Japanese,Bones,Superpowers,Heroes,88,8.5
+My Little Monster,Romance,Comedy,School,Teen,Female,Japanese,Brain's Base,Romance,School Life,13,7.5
+My Love Story!!,Romance,Comedy,School,Teen,Male,Japanese,Madhouse,Romance,School Life,24,7.8
+My Teen Romantic Comedy SNAFU,Comedy,Romance,School,Teen,Male,Japanese,Brain's Base,Romance,Solitude,13,8.0
+Mysterious Girlfriend X,Comedy,Romance,School,Teen,Male,Japanese,Hoods Entertainment,Romance,Supernatural,13,7.1
+Nabari no Ou,Action,Fantasy,Alternate World,Teen,Male,Japanese,J.C.Staff,Ninja,War,26,7.4
+Nagi no Asukara,Fantasy,Romance,Modern Japan,Teen,Male,Japanese,P.A. Works,Romance,Mermaids,26,7.8
+Nana,Music,Drama,Modern Japan,Adult,Female,Japanese,Madhouse,Music,Relationships,47,8.5
+Nanatsu no Taizai,Action,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Fantasy,Adventure,100,8.1
+Naruto,Action,Adventure,Fantasy,Teen,Male,Fictional,Studio Pierrot,Ninja,Friendship,220,8.3
+Natsume's Book of Friends,Supernatural,Slice of Life,Rural Japan,Teen,Male,Japanese,Brain's Base,Spirits,Healing,13,8.5
+Natsu no Arashi!,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,Shaft,Time Travel,Comedy,13,7.4
+Nekomonogatari,Action,Fantasy,Modern Japan,Teen,Male,Japanese,Shaft,Vampires,Monsters,4,8.1
+Neon Genesis Evangelion,Mecha,Psychological,Post-Apocalyptic,Teen,Male,Japanese,Gainax,Existentialism,Trauma,26,8.5
+New Game!,Comedy,Slice of Life,Modern Japan,Adult,Female,Japanese,DOGAKobo,Video Games,Workplace,12,7.4
+Nichijou,Comedy,Slice of Life,School,Teen,Female,Japanese,Kyoto Animation,Absurdity,Comedy,26,8.2
+Night Raid 1931,Action,Historical,Historical,Adult,Male,Japanese,A-1 Pictures,Superpowers,War,13,7.4
+Nisekoi: False Love,Comedy,Romance,School,Teen,Male,Japanese,Shaft,Romance,Harem,20,7.8
+No Game No Life,Adventure,Fantasy,Alternate World,Teen,Male,Fictional,Madhouse,Gaming,Strategy,12,7.8
+No. 6,Sci-Fi,Drama,Dystopian,Teen,Male,Japanese,Bones,Dystopia,Psychology,11,7.8
+Nobunaga Concerto,Historical,Action,Historical,Teen,Male,Japanese,Fuji TV,Historical,War,10,7.4
+Nobunagun,Action,Sci-Fi,Historical,Teen,Male,Japanese,Bridge,Historical,War,13,7.1
+Non Non Biyori,Slice of Life,Comedy,Rural Japan,Child,Female,Japanese,Silver Link,Countryside,Childhood,12,7.8
+Noragami,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Bones,Gods,Supernatural,12,8.1
+Norn9,Sci-Fi,Romance,Alternate World,Teen,Female,Japanese,Orange,Time Travel,Romance,12,7.1
+Nourin,Comedy,Romance,School,Teen,Male,Japanese,Silver Link,Agriculture,Romance,12,6.8
+Nura: Rise of the Yokai Clan,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Studio Deen,Yokai,Supernatural,26,7.8
+Nyan Koi!,Comedy,Romance,School,Teen,Male,Japanese,AIC,Romance,Cats,12,7.1
+Occult Academy,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Occult,Supernatural,13,7.4
+Ohana Holoholo,Slice of Life,Comedy,Rural Japan,Teen,Female,Japanese,P.A. Works,Hot Springs,Family,26,7.8
+Oishii Kankei,Romance,Drama,Modern Japan,Teen,Female,Japanese,Toei Animation,Romance,Relationships,68,7.4
+Ojisan and Marshmallow,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Creators in Pack,Office Life,Love,12,6.8
+Okami-san and Her Seven Companions,Comedy,Romance,School,Teen,Female,Japanese,J.C.Staff,Romance,Fairy Tales,12,7.1
+Okusama ga Seitokaichou!,Comedy,Romance,School,Teen,Male,Japanese,Seven,Romance,Student Council,12,6.8
+One Piece,Adventure,Action,Fantasy,Teen,Male,Fictional,Toei Animation,Pirates,Friendship,Ongoing,8.6
+One Punch Man,Action,Comedy,Superhero,Adult,Male,Fictional,Madhouse,Parody,Heroism,12,8.5
+OniAi,Comedy,Romance,School,Teen,Male,Japanese,Silver Link,Romance,Harem,12,6.8
+Oniichan no Koto Nanka Zenzen Suki Janain Dakara ne!!,Comedy,Romance,School,Teen,Female,Japanese,ZEXCS,Romance,Brother Complex,12,6.8
+Orange,Comedy,Romance,School,Teen,Female,Japanese,Telecom Animation Film,Romance,Time Travel,13,7.8
+Ore no Imouto ga Konna ni Kawaii Wake ga Nai,Comedy,Romance,School,Teen,Male,Japanese,AIC,Romance,Sister Complex,16,7.4
+Ore no Nōnai Sentakushi ga Gakuen Love Come o Zenryoku de Jama Shiteiru,Comedy,Romance,School,Teen,Male,Japanese,Diomedea,Romance,Harem,10,6.8
+Oreshura,Comedy,Romance,School,Teen,Male,Japanese,A-1 Pictures,Romance,Harem,13,7.1
+Osomatsu-san,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Pierrot,Comedy,Parody,25,7.8
+Otogizoushi,Historical,Fantasy,Historical,Teen,Female,Japanese,Production I.G,Historical,Fantasy,26,7.4
+Ouran High School Host Club,Comedy,Romance,School,Teen,Female,Japanese,Bones,Romance,Parody,26,7.9
+Outbreak Company,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,feel.,Transported,Fantasy World,12,7.4
+Overlord,Action,Fantasy,Alternate World,Adult,Male,Japanese,Madhouse,Transported,Fantasy World,39,8.1
+Overlord: Ple Ple Pleiades,Comedy,Fantasy,Alternate World,Adult,Male,Japanese,Studio PuYUKAI,Transported,Fantasy World,13,7.4
+Pandora Hearts,Action,Fantasy,Alternate World,Teen,Male,Japanese,Xebec,Fantasy,Adventure,25,7.8
+Panty & Stocking with Garterbelt,Action,Comedy,Modern Japan,Adult,Female,Japanese,Gainax,Angels,Demons,13,7.8
+Paranoia Agent,Psychological,Thriller,Modern Japan,Adult,Male,Japanese,Satelight,Psychology,Mystery,13,7.8
+Parasyte -the maxim-,Action,Horror,Modern Japan,Teen,Male,Japanese,Madhouse,Survival,Body Horror,24,8.3
+Patema Inverted,Sci-Fi,Adventure,Underground City,Teen,Female,Fictional,Purple Cow Studio Japan,Gravity,Discovery,1,7.5
+Peace Maker Kurogane,Action,Historical,Historical,Teen,Male,Japanese,Gonzo,Samurai,War,24,7.4
+Peach Girl,Comedy,Romance,School,Teen,Female,Japanese,Studio Pierrot,Romance,School Life,25,7.1
+Penguin Highway,Sci-Fi,Mystery,Modern Japan,Child,Male,Japanese,Studio Colorido,Science,Friendship,1,7.6
+Persona 4: The Animation,Action,Fantasy,Modern Japan,Teen,Male,Japanese,AIC,Superpowers,Social Links,25,7.8
+Persona 5: The Animation,Action,Fantasy,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Superpowers,Social Links,26,8.1
+Phantasy Star Online 2: The Animation,Action,Sci-Fi,Space,Teen,Male,Japanese,Telecom Animation Film,Gaming,Space Travel,12,7.1
+Phantom: Requiem for the Phantom,Action,Thriller,Modern Japan,Adult,Male,Japanese,Bee Train,Assassins,Conspiracy,26,7.8
+Phi Brain: Puzzle of God,Action,Mystery,Modern Japan,Teen,Male,Japanese,Sunrise,Puzzles,Psychology,25,7.4
+Photo Kano,Comedy,Romance,School,Teen,Male,Japanese,Madhouse,Romance,Photography,13,7.1
+Pita-Ten,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Trans Arts,Angels,Friendship,26,7.1
+Planetes,Sci-Fi,Slice of Life,Space,Adult,Male,Japanese,Sunrise,Space Travel,Work,26,8.2
+Plastic Memories,Sci-Fi,Romance,Alternate World,Teen,Male,Japanese,DOGAKobo,Androids,Romance,13,7.8
+Please Teacher!,Comedy,Romance,School,Teen,Male,Japanese,Daume,Romance,Alien,13,7.1
+Please Twins!,Comedy,Romance,School,Teen,Male,Japanese,Daume,Romance,Twins,12,7.1
+Pokémon,Adventure,Action,Modern Japan,Child,Male,Japanese,OLM,Monsters,Adventure,1200,7.6
+Polar Bear Cafe,Comedy,Slice of Life,Arctic,Adult,Male,Japanese,Pierrot,Animals,Cafe,50,7.1
+Polyphonica,Comedy,Fantasy,Alternate World,Teen,Male,Japanese, Ginga-ya,Music,Fantasy,12,7.1
+Pop Team Epic,Comedy,Action,Modern Japan,Teen,Female,Japanese,Kamikaze Douga,Idols,Parody,12,7.1
+Potemayo,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,J.C.Staff,Fantasy,Comedy,12,7.1
+Powerpuff Girls Z,Action,Comedy,Modern Japan,Child,Female,Japanese,Toei Animation,Superheroes,Parody,52,6.8
+Princess Jellyfish,Comedy,Slice of Life,Urban Japan,Adult,Female,Japanese,Brain's Base,Fashion,Friendship,11,7.8
+Princess Lover!,Comedy,Romance,School,Teen,Male,Japanese,GoHands,Romance,Harem,12,6.8
+Princess Principal,Action,Sci-Fi,Alternate World,Teen,Female,Japanese,Actas,Spy,Steampunk,12,7.8
+Prison School,Comedy,Ecchi,School,Teen,Male,Japanese,J.C.Staff,Prison,School Life,12,7.4
+Problem Children Are Coming from Another World Aren't They?,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Diomedea,Transported,Fantasy World,10,7.4
+Psycho-Pass,Sci-Fi,Action,Dystopian,Adult,Male,Japanese,Production I.G,Justice,Society,22,8.2
+Puella Magi Madoka Magica,Magical Girl,Psychological,Modern Japan,Teen,Female,Japanese,Shaft,Magic,Despair,12,8.3
+Punch Line,Action,Comedy,Modern Japan,Teen,Male,Japanese,MAPPA,Superpowers,Conspiracy,12,7.1
+Pupa,Horror,Psychological,Modern Japan,Teen,Male,Japanese,Studio Deen,Horror,Psychology,12,6.8
+Qualidea Code,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,A-1 Pictures,Superpowers,War,12,7.1
+Queen's Blade,Action,Fantasy,Alternate World,Adult,Female,Japanese,Arms,Tournament,Fantasy,12,6.8
+R-15,Comedy,Romance,School,Teen,Male,Japanese,AIC,Romance,Ecchi,12,6.8
+R.O.D the TV,Action,Mystery,Modern Japan,Adult,Male,Japanese,J.C.Staff,Books,Supernatural,26,7.8
+Rage of Bahamut: Genesis,Action,Fantasy,Alternate World,Teen,Male,Japanese,MAPPA,Fantasy,Adventure,12,7.8
+RahXephon,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Bones,Mecha,War,26,7.8
+Rail Wars!,Action,Comedy,Alternate World,Teen,Male,Japanese,Passione,Trains,Action,12,7.1
+Rainbow,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Madhouse,Prison,Rehabilitation,26,7.8
+Rakudai Kishi no Cavalry,Action,Fantasy,Alternate World,Teen,Male,Japanese,Silver Link,Fantasy,Knights,12,7.4
+Ranma ½,Action,Comedy,Modern Japan,Teen,Male,Japanese,Kitty Films,Martial Arts,Romance,161,7.8
+Rascal Does Not Dream of Bunny Girl Senpai,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,CloverWorks,Adolescence,Supernatural,13,8.3
+Re:Creators,Action,Fantasy,Modern Japan,Adult,Male,Multi-ethnic,Troyca,Fiction,Reality,22,7.3
+Re:Zero - Starting Life in Another World,Fantasy,Isekai,Fantasy World,Teen,Male,Fictional,White Fox,Time Loop,Survival,25,8.2
+Reborn!,Action,Comedy,Modern Japan,Teen,Male,Japanese,Artland,Mafia,Assassins,203,7.9
+Recently My Sister is Unusual,Comedy,Romance,School,Teen,Male,Japanese,Project No.9,Romance,Sister Complex,12,6.8
+Record of Grancrest War,Action,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Fantasy,War,24,7.4
+Red Data Girl,Fantasy,Romance,Modern Japan,Teen,Female,Japanese,P.A. Works,Spirits,Romance,12,7.1
+Redline,Action,Sci-Fi,Space,Adult,Male,Japanese,Madhouse,Racing,Space Travel,1,7.8
+ReLIFE,Slice of Life,Sci-Fi,Modern Japan,Adult,Male,Japanese,TMS Entertainment,Second Chance,Social Issues,13,7.8
+Renai Boukun,Comedy,Romance,School,Teen,Male,Japanese,EMT²,Romance,Harem,12,7.1
+Restaurant to Another World,Fantasy,Comedy,Alternate World,Adult,Male,Japanese,Silver Link,Food,Fantasy World,12,7.4
+Revolutionary Girl Utena,Shoujo,Fantasy,School,Teen,Female,Japanese,J.C.Staff,Revolution,Identity,39,8.0
+Rewrite,Action,Fantasy,Alternate World,Teen,Male,Japanese,8bit,Superpowers,Fantasy World,24,7.1
+Riddle Story of Devil,Psychological,Thriller,Modern Japan,Teen,Female,Japanese,Diomedea,Assassins,Psychology,12,7.1
+Rin-ne,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,Brain's Base,Spirits,Reincarnation,25,7.1
+Rio: Rainbow Gate!,Comedy,Action,Alternate World,Teen,Female,Japanese,Xebec,Casino,Gambling,13,6.8
+Ristorante Paradiso,Comedy,Slice of Life,Modern Japan,Adult,Female,Japanese,David Production,Food,Restaurant,11,7.1
+Rokka: Braves of the Six Flowers,Action,Fantasy,Alternate World,Teen,Male,Japanese,Passione,Fantasy,Adventure,12,7.4
+Rokudenashi Majutsu Koushi to Akashic Records,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Liden Films,Magic,School,12,7.1
+Romeo × Juliet,Fantasy,Romance,Historical,Teen,Male,Japanese,Gonzo,Romance,Tragedy,24,7.8
+Rosario + Vampire,Comedy,Romance,School,Teen,Male,Japanese,Gonzo,Romance,Monsters,13,7.1
+Rozen Maiden,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Nomad,Dolls,Fantasy,12,7.4
+Rurouni Kenshin,Action,Historical,Meiji Era Japan,Adult,Male,Japanese,Studio Gallop,Swordsmanship,Redemption,95,8.2
+Ryūgajō Nanana no Maizōkin,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Treasure Hunt,Fantasy,11,7.1
+S.A: Special A,Comedy,Romance,School,Teen,Female,Japanese,Gonzo,Romance,School Life,24,7.4
+Sabagebu!,Comedy,Action,School,Teen,Female,Japanese,Pierrot,Airsoft,Survival,12,7.1
+Sacred Blacksmith,Action,Fantasy,Alternate World,Teen,Male,Japanese,Manglobe,Fantasy,Adventure,12,7.1
+Saekano: How to Raise a Boring Girlfriend,Comedy,Romance,School,Teen,Male,Japanese,A-1 Pictures,Romance,Harem,13,7.4
+Sailor Moon,Magical Girl,Action,Modern Japan,Teen,Female,Japanese,Toei Animation,Friendship,Love,200,7.7
+Saint Seiya: Soul of Gold,Action,Fantasy,Alternate World,Teen,Male,Japanese,Toei Animation,Fantasy,Adventure,13,7.4
+Saiyuki,Action,Fantasy,Historical,Adult,Male,Chinese,Studio Pierrot,Fantasy,Adventure,50,7.8
+Sakamoto desu ga?,Comedy,Slice of Life,School,Teen,Male,Japanese,Studio Deen,School Life,Delinquents,12,7.8
+Sakura Trick,Comedy,Romance,School,Teen,Female,Japanese,Studio Deen,Romance,Yuri,12,7.1
+Sakurasou no Pet na Kanojo,Comedy,Romance,School,Teen,Male,Japanese,J.C.Staff,Romance,School Life,24,7.8
+Samurai Champloo,Action,Adventure,Edo Period Japan,Adult,Male,Multi-ethnic,Manglobe,Hip-hop,Journey,26,8.4
+Samurai Flamenco,Action,Comedy,Modern Japan,Adult,Male,Japanese,Manglobe,Superheroes,Idols,22,7.4
+Samurai Harem,Comedy,Romance,Historical,Teen,Male,Japanese,GoHands,Romance,Harem,12,6.8
+Sanjay and Craig,Comedy,Adventure,Modern USA,Child,Male,American,Nickelodeon,Snakes,Suburbs,60,6.8
+Sankarea,Comedy,Romance,Modern Japan,Teen,Male,Japanese,Studio Deen,Romance,Zombies,12,7.1
+Sansha Sanyou,Comedy,Slice of Life,School,Teen,Female,Japanese,DOGAKobo,School Life,Friendship,12,7.1
+Sasami-san@Ganbaranai,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,SHAFT,Goddesses,Family,12,7.4
+Sasuke,Action,Adventure,Historical,Teen,Male,Japanese,Sunrise,Ninja,War,25,7.4
+Say "I Love You",Comedy,Romance,School,Teen,Female,Japanese,ZEXCS,Romance,School Life,13,7.4
+School Days,Comedy,Romance,School,Teen,Male,Japanese,TNK,Romance,School Life,12,6.8
+School Rumble,Comedy,Romance,School,Teen,Male,Japanese,Studio Comet,Romance,School Life,26,7.7
+Schwarzesmarken,Action,Sci-Fi,Alternate World,Adult,Male,Japanese,ixtl,Mecha,War,12,7.1
+Scrapped Princess,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Bones,Fantasy,Adventure,24,7.4
+Seiken no Blacksmith,Action,Fantasy,Alternate World,Teen,Male,Japanese,Manglobe,Fantasy,Adventure,12,7.1
+Seikimatsu Occult Gakuin,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Occult,Supernatural,13,7.4
+Seikon no Qwaser,Action,Fantasy,Alternate World,Teen,Male,Japanese,Hoods Entertainment,Fantasy,Alchemy,24,7.1
+Seitokai no Ichizon,Comedy,Slice of Life,School,Teen,Male,Japanese,Studio Deen,School Life,Student Council,12,7.1
+Seitokai Yakuindomo,Comedy,Slice of Life,School,Teen,Male,Japanese,GoHands,School Life,Student Council,13,7.4
+Sekai Seifuku: Bouryaku no Zvezda,Action,Comedy,Modern Japan,Teen,Female,Japanese,A-1 Pictures,Superpowers,Conspiracy,12,7.1
+Sekirei,Action,Comedy,Modern Japan,Teen,Male,Japanese,Seven Arcs,Superpowers,Harem,25,7.4
+Sengoku Basara,Action,Historical,Historical,Adult,Male,Japanese,Production I.G,War,Samurai,12,7.8
+Senki Zesshou Symphogear,Action,Sci-Fi,Modern Japan,Teen,Female,Japanese,Encourage Films,Superpowers,Music,13,7.4
+Senran Kagura,Action,Comedy,Modern Japan,Teen,Female,Japanese,Artland,Ninja,Action,12,7.1
+Seraph of the End,Action,Fantasy,Post-Apocalyptic,Teen,Male,Japanese,Wit Studio,Vampires,Apocalypse,24,7.8
+Serial Experiments Lain,Psychological,Sci-Fi,Modern Japan,Teen,Female,Japanese,Studio Pierrot,Psychology,Technology,13,8.1
+Servant x Service,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Workplace,Romance,13,7.4
+Seto no Hanayome,Comedy,Romance,Modern Japan,Teen,Male,Japanese,Gonzo,Romance,Mermaids,26,7.4
+Shakugan no Shana,Action,Fantasy,Modern Japan,Teen,Male,Japanese,J.C.Staff,Fantasy,Adventure,72,7.8
+Shangri-La,Sci-Fi,Adventure,Future,Teen,Female,Japanese,Gonzo,Future,War,24,7.1
+Shigofumi,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,J.C.Staff,Letters,Supernatural,13,7.1
+Shimoneta,Comedy,Action,Modern Japan,Teen,Male,Japanese,J.C.Staff,Superpowers, Ecchi,12,7.1
+Shin Koihime Musou,Action,Historical,Historical,Teen,Female,Japanese,DOGAKobo,War,Samurai,12,6.8
+Shin Sekai Yori,Sci-Fi,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Psychic Powers,Utopia,25,8.1
+Shinmai Maou no Testament,Action,Fantasy,Alternate World,Teen,Male,Japanese,Production IMS,Demons,War,12,7.1
+Shirobako,Comedy,Slice of Life,Modern Japan,Adult,Female,Japanese,P.A. Works,Anime Industry,Dreams,24,8.4
+Shirokuma Cafe,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Pierrot,Animals,Cafe,50,7.1
+Shokugeki no Soma,Comedy,Cooking,School,Teen,Male,Japanese,J.C.Staff,Cooking,School Life,24,7.8
+Shomin Sample,Comedy,Romance,School,Teen,Male,Japanese,Silver Link,Romance,Commoner,12,7.1
+Shonen Maid,Comedy,Slice of Life,Modern Japan,Teen,Male,Japanese,8bit,Crossdressing,Maid,12,7.1
+Short Peace,Sci-Fi,Action,Future,Adult,Male,Japanese,Shirogumi,War,Technology,1,7.4
+Shoujo Kakumei Utena,Shoujo,Fantasy,School,Teen,Female,Japanese,J.C.Staff,Revolution,Identity,39,8.0
+Shoukoku no Altair,Action,Adventure,Historical,Teen,Male,Japanese,MAPPA,War,Politics,24,7.8
+Show by Rock!!,Comedy,Music,Modern Japan,Teen,Female,Japanese,Bones,Music,Bands,12,7.4
+Shugo Chara!,Comedy,Fantasy,Modern Japan,Child,Female,Japanese,Satelight,Guardian Characters,Friendship,127,7.1
+Sidonia no Kishi,Sci-Fi,Action,Space,Teen,Male,Japanese,Polygon Pictures,Mecha,War,12,7.8
+Silver Spoon,Slice of Life,Comedy,Rural Japan,Teen,Male,Japanese,A-1 Pictures,Agriculture,Growth,11,7.9
+Sin: Nanatsu no Taizai,Action,Fantasy,Alternate World,Teen,Male,Japanese,Artland,Demons,War,12,6.8
+Sket Dance,Comedy,Slice of Life,School,Teen,Male,Japanese,Tatsunoko Production,School Life,Club,77,7.8
+Sketchbook ~Full Colors~,Comedy,Slice of Life,School,Teen,Female,Japanese,HAL Film Maker,Art,School Life,13,7.1
+Skip Beat!,Comedy,Romance,Entertainment Industry,Teen,Female,Japanese,Hal Film Maker,Romance,Revenge,25,7.9
+Slam Dunk,Sports,Comedy,School,Teen,Male,Japanese,Toei Animation,Basketball,School Life,101,8.1
+Slayers,Action,Fantasy,Alternate World,Teen,Female,Japanese,Studio Pierrot,Fantasy,Adventure,104,7.8
+So I Can't Play H!,Comedy,Romance,School,Teen,Male,Japanese,feel.,Romance,Ecchi,12,6.8
+Softenni,Comedy,Sports,School,Teen,Female,Japanese,Xebec,Tennis,School Life,12,6.8
+Sola,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Nomad,Yuki-onna,Friendship,13,7.1
+Solitary Gourmet,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,MAPPA,Food,Travel,12,7.4
+Someday's Dreamers,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,J.C.Staff,Magic,School Life,12,7.1
+SoniAni: Super Sonico The Animation,Comedy,Slice of Life,Modern Japan,Adult,Female,Japanese,White Fox,Idols,Music,12,6.8
+Sora no Manimani,Comedy,Slice of Life,School,Teen,Male,Japanese,Studio Comet,Astronomy,School Life,12,7.1
+Sora no Otoshimono,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,AIC,Angels,Friendship,20,7.4
+Sorcerer Hunters,Action,Fantasy,Alternate World,Teen,Male,Japanese,Xebec,Fantasy,Adventure,26,7.1
+Soredake Machió!,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Shin-Ei Animation,Idols,Music,12,6.8
+Soul Eater,Action,Fantasy,Alternate World,Teen,Male,Japanese,Bones,Fantasy,Adventure,51,7.8
+Soul Link,Action,Sci-Fi,Space,Teen,Male,Japanese,Picture Magic,Mecha,War,12,6.8
+Sound! Euphonium,Comedy,Music,School,Teen,Female,Japanese,Kyoto Animation,Music,Band,13,7.8
+Space Battleship Yamato,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Studio Pierrot,War,Space Travel,26,8.0
+Space Brothers,Comedy,Adventure,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Space,Astronauts,99,7.8
+Space Dandy,Sci-Fi,Comedy,Space,Adult,Male,Multi-ethnic,Bones,Adventure,Absurd,26,7.9
+Space Pirate Captain Harlock,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Toei Animation,Space Pirates,War,42,7.8
+Space Runaway Ideon,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Sunrise,War,Humanity,39,7.5
+Special A,Comedy,Romance,School,Teen,Female,Japanese,Gonzo,Romance,School Life,24,7.4
+Speed Grapher,Action,Sci-Fi,Modern Japan,Adult,Male,Japanese,Gonzo,Photography,Conspiracy,24,7.1
+Spice and Wolf,Adventure,Fantasy,Medieval Europe,Adult,Male,European,Imagin,Commerce,Romance,26,8.1
+Spiral: Bond of Reasoning,Mystery,Psychological,Modern Japan,Teen,Male,Japanese,J.C.Staff,Mystery,Psychology,25,7.8
+Spiritpact,Action,Fantasy,Modern China,Adult,Male,Chinese,Haoliners Animation League,Spirits,Youkai,20,6.8
+Squid Girl,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,Diomedea,Squid,Invasion,12,7.1
+SSSS.Gridman,Action,Sci-Fi,Modern Japan,Teen,Male,Japanese,Trigger,Superpowers,Technology,12,7.8
+Star Blazers,Sci-Fi,Space Opera,Space,Adult,Male,Japanese,Studio Pierrot,War,Space Travel,26,7.8
+Star Driver,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Bones,Mecha,War,25,7.4
+Steins;Gate,Sci-Fi,Thriller,Modern Japan,Adult,Male,Japanese,White Fox,Time Travel,Conspiracy,24,9.1
+Strawberry Marshmallow,Comedy,Slice of Life,Modern Japan,Child,Female,Japanese,Studio Pierrot,Childhood,Friendship,12,7.1
+Strawberry Panic!,Comedy,Romance,School,Teen,Female,Japanese,Madhouse,Romance,Yuri,26,6.8
+Strike the Blood,Action,Fantasy,Alternate World,Teen,Male,Japanese,Silver Link,Vampires,War,24,7.4
+Strike Witches,Action,Sci-Fi,Alternate World,Teen,Female,Japanese,Gonzo,Mecha,War,12,7.1
+Student Council's Discretion,Comedy,Slice of Life,School,Teen,Male,Japanese,Studio Deen,School Life,Student Council,12,7.1
+Subete ga F ni Naru: The Perfect Insider,Mystery,Psychological,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Mystery,Psychology,11,7.8
+Sukitte Ii na yo,Comedy,Romance,School,Teen,Female,Japanese,ZEXCS,Romance,School Life,13,7.4
+Summer Storm!,Comedy,Romance,School,Teen,Male,Japanese,Diomedea,Romance,School Life,13,6.8
+Sunday Without God,Fantasy,Adventure,Alternate World,Teen,Male,Japanese,Madhouse,Fantasy,Adventure,12,7.4
+Super Lovers,Comedy,Romance,Modern Japan,Adult,Male,Japanese,Studio Deen,Romance,Family,10,6.8
+Super Robot Wars OG: The Inspector,Action,Mecha,Alternate World,Adult,Male,Japanese,Asahi Production,Mecha,War,26,7.4
+Supernatural the Animation,Action,Horror,Modern USA,Adult,Male,American,Warner Bros.,Horror,Supernatural,22,7.8
+Survival Game Club!,Comedy,Action,School,Teen,Female,Japanese,Pierrot,Airsoft,Survival,12,7.1
+Suzakinishi the Animation,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,feel.,Radio,Comedy,12,6.8
+Sword Art Online,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,A-1 Pictures,Gaming,Virtual Reality,96,7.8
+Sword Oratoria,Action,Fantasy,Alternate World,Teen,Male,Japanese,J.C.Staff,Fantasy,Adventure,12,7.4
+Taboo Tattoo,Action,Fantasy,Alternate World,Teen,Male,Japanese,J.C.Staff,Tattoos,War,12,7.1
+Tactical Roar,Action,Sci-Fi,Alternate World,Teen,Female,Japanese,Actas,Mecha,War,13,6.8
+Tactics,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Studio Deen,Youkai,Supernatural,25,7.1
+Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Alternate World,Teen,Male,Japanese,Silver Link,Magic,Guns,12,7.1
+Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie,Comedy,Romance,School,Teen,Male,Japanese,Kyoto Animation,Romance,Delusions,1,7.8
+Takunomi.,Comedy,Slice of Life,Modern Japan,Adult,Female,Japanese,Production IMS,Bar,Workplace,12,6.8
+Tales of Abyss,Action,Fantasy,Alternate World,Teen,Male,Japanese,Sunrise,Fantasy,Adventure,26,7.4
+Tales of Zestiria the X,Action,Fantasy,Alternate World,Teen,Male,Japanese,ufotable,Fantasy,Adventure,26,7.8
+Tamako Market,Comedy,Slice of Life,Shopping District,Teen,Female,Japanese,Kyoto Animation,Daily Life,Community,12,7.8
+Tamayura,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,HAL Film Maker,Photography,Family,12,7.1
+Tanaka-kun is Always Listless,Comedy,Slice of Life,School,Teen,Male,Japanese,Silver Link,Laziness,School Life,12,7.5
+Tari Tari,Comedy,Slice of Life,School,Teen,Female,Japanese,P.A. Works,Music,School Life,13,7.4
+Tasogare Otome x Amnesia,Comedy,Romance,School,Teen,Male,Japanese,Silver Link,Romance,Ghosts,12,7.1
+Tatami Galaxy,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Madhouse,Time Loop,Self-Discovery,11,8.5
+Tayutama: Kiss on My Deity,Comedy,Romance,School,Teen,Male,Japanese,Silver Link,Romance,Harem,12,6.8
+Tears to Tiara,Action,Fantasy,Alternate World,Teen,Male,Japanese,White Fox,Fantasy,Adventure,26,7.4
+Tegami Bachi,Action,Fantasy,Alternate World,Teen,Male,Japanese,Pierrot,Letters,Adventure,50,7.4
+Tekkonkinkreet,Action,Sci-Fi,Dystopian,Teen,Male,Japanese,Studio 4°C,Martial Arts,Gangs,1,7.8
+Tenchi Muyo!,Comedy,Sci-Fi,Alternate World,Teen,Male,Japanese,AIC,Space,Harem,26,7.4
+Tenjho Tenge,Action,Comedy,School,Teen,Male,Japanese,Madhouse,Martial Arts,School Life,24,7.1
+Tentai Kōshi Yūsei,Comedy,Sci-Fi,Alternate World,Teen,Male,Japanese,Studio Pierrot,Space,Adventure,26,7.1
+Terror in Resonance,Action,Thriller,Modern Japan,Teen,Male,Japanese,MAPPA,Terrorism,Society,11,7.9
+Tesagure! Bukatsu-mono,Comedy,Slice of Life,School,Teen,Female,Japanese,Yahoo!,School Life,Clubs,12,6.8
+Tetsuwan Birdy Decode,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,A-1 Pictures,Space,Adventure,26,7.4
+Texhnolyze,Sci-Fi,Cyberpunk,Dystopian,Adult,Male,Fictional,Madhouse,Technology,Humanity,22,7.8
+The Ancient Magus' Bride,Fantasy,Romance,Alternate World,Teen,Female,Japanese,Wit Studio,Magic,Fantasy,24,8.1
+The Asterisk War,Action,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Magic,Guns,24,7.1
+The Big O,Action,Sci-Fi,Dystopian,Adult,Male,Japanese,Sunrise,Mecha,War,26,7.8
+The Case Files of Lord El-Melloi II,Action,Fantasy,Alternate World,Adult,Male,Japanese,TROYCA,Magic,Mystery,13,7.8
+The Devil is a Part-Timer!,Comedy,Fantasy,Modern Japan,Adult,Male,Japanese,White Fox,Demons,Working,13,7.7
+The Disastrous Life of Saiki K.,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,J.C.Staff,Psychic Powers,School Life,16,7.8
+The Familiar of Zero,Action,Fantasy,Alternate World,Teen,Male,Japanese,J.C.Staff,Magic,Adventure,49,7.4
+The Fruit of Grisaia,Comedy,Romance,School,Teen,Male,Japanese,8bit,Romance,Harem,13,7.1
+The Garden of Words,Comedy,Romance,Modern Japan,Adult,Male,Japanese,Shinko Music,Romance,Poetry,1,7.8
+The Great Passage,Slice of Life,Modern Japan,Adult,Male,Japanese,Zexcs,Linguistics,Publishing,11,7.7
+The Heroic Legend of Arslan,Action,Fantasy,Alternate World,Teen,Male,Japanese,Liden Films,War,Politics,25,7.8
+The Idolm@ster,Comedy,Idol,Modern Japan,Teen,Female,Japanese,A-1 Pictures,Idols,Music,26,7.4
+The Kawai Complex Guide to Manors and Hostel Behavior,Comedy,Slice of Life,Modern Japan,Teen,Male,Japanese,Brain's Base,Boarding House,School Life,12,7.1
+The King's Avatar,Action,Fantasy,Alternate World,Teen,Male,Chinese,Tencent Games,Gaming,Virtual Reality,12,7.8
+The Legend of the Legendary Heroes,Action,Fantasy,Alternate World,Teen,Male,Japanese,Zexcs,Magic,Adventure,24,7.4
+The Melancholy of Haruhi Suzumiya,Comedy,Sci-Fi,School,Teen,Female,Japanese,Kyoto Animation,Time Travel,Mystery,28,7.9
+The Millionaire Detective Balance: Unlimited,Comedy,Mystery,Modern Japan,Adult,Male,Japanese,CloverWorks,Mystery,Wealth,11,7.8
+The Pet Girl of Sakurasou,Comedy,Romance,School,Teen,Male,Japanese,J.C.Staff,Romance,School Life,24,7.8
+The Promised Neverland,Psychological,Thriller,Alternate World,Teen,Female,Japanese,CloverWorks,Escape,Survival,12,8.3
+The Qwaser of Stigmata,Action,Fantasy,Alternate World,Teen,Male,Japanese,Hoods Entertainment,Alchemy,War,24,7.1
+The Rising of the Shield Hero,Action,Fantasy,Alternate World,Adult,Male,Japanese,Kinema Citrus,Heroes,Transported,25,7.9
+The Rolling Girls,Action,Comedy,Alternate World,Teen,Female,Japanese,Wit Studio,Superpowers,Idols,12,7.1
+The Rose of Versailles,Historical,Drama,18th Century France,Young Adult,Female,European,TMS Entertainment,Revolution,Romance,40,8.3
+The Sacred Blacksmith,Action,Fantasy,Alternate World,Teen,Male,Japanese,Manglobe,Fantasy,Adventure,12,7.1
+The Saint's Magic Ability is Omnipotent,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,Diomedea,Magic,Fantasy,12,7.4
+The Seven Deadly Sins,Action,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Fantasy,Adventure,100,8.1
+The Silver Guardian,Action,Fantasy,Alternate World,Teen,Male,Chinese,Haoliners Animation League,Gaming,Virtual Reality,12,6.8
+The Tatami Galaxy,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Madhouse,Time Loop,Self-Discovery,11,8.5
+The Testament of Sister New Devil,Action,Fantasy,Alternate World,Teen,Male,Japanese,Production IMS,Demons,War,12,7.1
+The Troubled Life of Miss Kotoura,Comedy,Romance,School,Teen,Female,Japanese,AIC,Romance,ESP,12,7.1
+The Twelve Kingdoms,Action,Fantasy,Alternate World,Teen,Female,Japanese,Pierrot,Fantasy,Adventure,45,7.8
+The Vision of Escaflowne,Action,Fantasy,Alternate World,Teen,Male,Japanese,Sunrise,Fantasy,Adventure,26,7.8
+The World God Only Knows,Comedy,Romance,Modern Japan,Teen,Male,Japanese,Manglobe,Dating Sim,Conquest,36,7.8
+The World is Still Beautiful,Fantasy,Romance,Alternate World,Teen,Female,Japanese,Pierrot,Fantasy,Romance,12,7.4
+There Goes Tomoe!,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,Studio Pierrot,School Life,Friendship,45,6.8
+This Art Club Has a Problem!,Comedy,Slice of Life,School,Teen,Male,Japanese,feel.,Art,School Life,12,7.1
+This Boy is a Professional Wizard,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,CoMix Wave Films,Magic,Romance,4,6.8
+This Ugly Yet Beautiful World,Comedy,Romance,Modern Japan,Teen,Male,Japanese,Shaft,Romance,Science,12,7.1
+Those Who Hunt Elves,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,Group TAC,Fantasy,Adventure,24,7.1
+Three Leaves Three Colors,Comedy,Slice of Life,School,Teen,Female,Japanese,Doga Kobo,School Life,Friendship,12,7.1
+Tiger & Bunny,Action,Comedy,Modern Japan,Adult,Male,Japanese,Sunrise,Superheroes,Partners,25,7.8
+To Love-Ru,Comedy,Romance,School,Teen,Male,Japanese,Xebec,Romance,Harem,26,7.4
+Toaru Kagaku no Railgun,Action,Sci-Fi,Modern Japan,Teen,Female,Japanese,J.C.Staff,Superpowers,Science,24,8.0
+Toaru Majutsu no Index,Action,Sci-Fi,Modern Japan,Teen,Male,Japanese,J.C.Staff,Superpowers,Magic,24,7.8
+Today's Asuka Show,Comedy,Slice of Life,Modern Japan,Teen,Female,Japanese,Silver Link,School Life,Idols,20,6.8
+Tokimeki Memorial,Comedy,Romance,School,Teen,Male,Japanese,Pierrot,Romance,School Life,25,6.8
+Tokyo Babylon,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,Madhouse,Onmyodo,Supernatural,21,7.1
+Tokyo ESP,Action,Sci-Fi,Modern Japan,Teen,Male,Japanese,Xebec,Superpowers,Psychic Powers,12,7.1
+Tokyo Ghoul,Action,Fantasy,Modern Japan,Teen,Male,Japanese,Pierrot,Ghouls,Horror,48,7.8
+Tokyo Magnitude 8.0,Comedy,Drama,Modern Japan,Teen,Male,Japanese,Bones,Earthquake,Family,11,7.8
+Tokyo Ravens,Action,Fantasy,Modern Japan,Teen,Male,Japanese,8bit,Onmyodo,School Life,24,7.4
+Tomodachi Game,Psychological,Thriller,Modern Japan,Teen,Male,Japanese,Okuruto Noboru,Games,Psychology,12,7.1
+Tonari no Kaibutsu-kun,Comedy,Romance,School,Teen,Female,Japanese,Brain's Base,Romance,School Life,13,7.8
+Tonari no Seki-kun,Comedy,Slice of Life,School,Teen,Male,Japanese,Shin-Ei Animation,School Life,Comedy,21,7.4
+Toradora!,Comedy,Romance,School,Teen,Male,Japanese,J.C.Staff,Romance,School Life,25,8.1
+Toshokan Sensou,Action,Comedy,Alternate World,Teen,Male,Japanese,Production I.G,Libraries,War,12,7.4
+Touka Gettan,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Studio Deen,Onmyodo,Romance,26,7.1
+Touken Ranbu: Hanamaru,Action,Fantasy,Historical,Teen,Male,Japanese,Doga Kobo,Samurai,War,12,7.1
+Towa no Quon,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Bones,Superpowers,Science,6,7.4
+Tower of Druaga: The Aegis of Uruk,Action,Fantasy,Alternate World,Teen,Male,Japanese,Gonzo,Fantasy,Adventure,12,7.1
+Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs,Comedy,Fantasy,Alternate World,Teen,Male,Japanese,ENGI,Dating Sim,Transported,12,7.4
+Tribe Nine,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Liden Films,Baseball,Science,12,6.8
+Trickster,Action,Mystery,Modern Japan,Teen,Male,Japanese,Shirogumi,Mystery,Science,24,7.1
+Trinity Blood,Action,Fantasy,Historical,Adult,Male,Japanese,Gonzo,Vampires,War,24,7.4
+Tsubasa: RESERVoir CHRoNiCLE,Action,Fantasy,Alternate World,Teen,Male,Japanese,Bee Train,Fantasy,Adventure,52,7.8
+Tsugumomo,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Zero-G,Kitsune,Supernatural,12,7.1
+Tsuki ga Kirei,Comedy,Romance,School,Teen,Male,Japanese,feel.,Romance,School Life,12,7.8
+Tsukimoneta,Comedy,Action,Modern Japan,Teen,Male,Japanese,Studio Gokumi,Superpowers,Ecchi,12,7.1
+Tsuritama,Comedy,Sci-Fi,Modern Japan,Teen,Male,Japanese,A-1 Pictures,Fishing,Science,12,7.4
+Twin Angel: Twinkle Paradise,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,J.C.Staff,Magic,Idols,12,6.8
+Twin Star Exorcists,Action,Fantasy,Modern Japan,Teen,Male,Japanese,Pierrot,Onmyodo,Romance,50,7.4
+Uchuu Kyoudai,Comedy,Adventure,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Space,Astronauts,99,7.8
+Udon no Kuni no Kiniro Kemari,Comedy,Slice of Life,Rural Japan,Adult,Male,Japanese,Liden Films,Udon,Family,12,7.1
+UFO Ultramaiden Valkyrie,Comedy,Sci-Fi,Alternate World,Teen,Male,Japanese,Telecom Animation Film,Superpowers,Science,32,7.1
+Ultimate Otaku Teacher,Comedy,Slice of Life,School,Teen,Male,Japanese,A-1 Pictures,Teaching,Otaku Culture,24,7.4
+Ultra Maniac,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,Production Reed,Magic,Romance,26,7.1
+Ulysses: Jeanne d'Arc and the Alchemist Knight,Action,Fantasy,Historical,Teen,Male,Japanese,AXsiZ,Fantasy,Adventure,12,6.8
+Umineko: When They Cry,Comedy,Mystery,Modern Japan,Teen,Male,Japanese,Studio Deen,Mystery,Psychology,26,7.8
+Unbreakable Machine-Doll,Action,Fantasy,Alternate World,Teen,Male,Japanese,Lerche,Fantasy,Adventure,12,7.1
+Unlimited Fafnir,Action,Fantasy,Alternate World,Teen,Male,Japanese,Diomedea,Dragons,War,12,7.1
+Unlimited Psychic Squad,Action,Sci-Fi,Modern Japan,Teen,Male,Japanese,Manglobe,Superpowers,Psychic Powers,12,7.1
+Urara Meirochou,Comedy,Fantasy,Modern Japan,Teen,Female,Japanese,J.C.Staff,Divination,Friendship,12,7.1
+Ushio and Tora,Action,Fantasy,Modern Japan,Teen,Male,Japanese,MAPPA,Yokai,Adventure,39,7.8
+Utawarerumono,Action,Fantasy,Alternate World,Teen,Male,Japanese,OLM,Fantasy,Adventure,26,7.4
+Valkyrie Drive: Mermaid,Action,Sci-Fi,Alternate World,Teen,Female,Japanese,Arms,Superpowers,Science,12,6.8
+Vampire Knight,Action,Romance,School,Teen,Female,Japanese,Studio Deen,Vampires,Romance,26,7.4
+Vandread,Action,Sci-Fi,Space,Teen,Male,Japanese,Gonzo,Mecha,War,26,7.4
+Vatican Miracle Examiner,Comedy,Mystery,Modern Japan,Adult,Male,Japanese,J.C.Staff,Mystery,Religion,12,7.1
+Venus Project: Climax,Comedy,Idol,Modern Japan,Teen,Female,Japanese,Nomad,Idols,Music,6,6.8
+Venus Versus Virus,Action,Fantasy,Modern Japan,Teen,Female,Japanese,Studio Hibari,Vampires,Horror,12,6.8
+Viper's Creed,Action,Sci-Fi,Alternate World,Adult,Male,Japanese,AIC,War,Mecha,12,7.1
+Vivy: Fluorite Eye's Song,Sci-Fi,Action,Future,AI,Female,Fictional,Wit Studio,Music,AI,13,8.0
+Wagnaria!!,Comedy,Slice of Life,Restaurant,Teen,Female,Japanese,A-1 Pictures,Workplace,Comedy,13,7.8
+Wakaba Girl,Comedy,Slice of Life,School,Teen,Female,Japanese, Ultra Super Pictures,School Life,Comedy,13,6.8
+Wakakozake,Comedy,Slice of Life,Modern Japan,Adult,Male,Japanese,Office DCI,Food,Drinking,12,7.1
+Walkure Romanze,Comedy,Romance,School,Teen,Male,Japanese,8bit,Romance,Jousting,12,6.8
+Wandering Son,Comedy,Slice of Life,School,Teen,Male,Japanese,AIC,Transgender,School Life,11,7.8
+Wangan Midnight,Action,Sports,Modern Japan,Teen,Male,Japanese,A.C.G.T,Racing,Cars,26,7.4
+WataMote,Comedy,Slice of Life,School,Teen,Female,Japanese,Silver Link,School Life,Comedy,12,7.4
+We Never Learn,Comedy,Slice of Life,School,Teen,Male,Japanese,Studio Pierrot,Teaching,School Life,26,7.8
+We Rent Tsukumogami,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,Telecom Animation Film,Tsukumogami,Rental,12,7.1
+Welcome to the Ballroom,Comedy,Sports,Modern Japan,Teen,Male,Japanese,Production I.G,Ballroom Dancing,Competition,24,7.8
+Welcome to the NHK,Comedy,Psychological,Modern Japan,Adult,Male,Japanese,Gonzo,Hikikimori,Anxiety,24,8.0
+Witch Craft Works,Action,Fantasy,Modern Japan,Teen,Male,Japanese,J.C.Staff,Witches,Magic,12,7.4
+Witchblade,Action,Sci-Fi,Modern Japan,Adult,Female,Japanese,Gonzo,Superpowers,Science,24,7.4
+Wolf Girl and Black Prince,Comedy,Romance,School,Teen,Female,Japanese,TYO Animations,Romance,School Life,12,7.1
+Wolf's Rain,Action,Fantasy,Post-Apocalyptic,Adult,Male,Fictional,Bones,Wolves,Survival,26,7.9
+Wotakoi: Love Is Hard for Otaku,Comedy,Romance,Workplace,Adult,Male,Japanese,A-1 Pictures,Otaku Culture,Workplace Romance,11,7.9
+Xam'd: Lost Memories,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Bones,Mecha,War,26,7.4
+Xiaolin Showdown,Action,Fantasy,Modern China,Teen,Male,Chinese,Warner Bros.,Martial Arts,Fantasy,52,7.1
+Yakitate!! Japan,Comedy,Slice of Life,Modern Japan,Teen,Male,Japanese,Sunrise,Bread,Competition,69,7.8
+Yamada-kun and the Seven Witches,Comedy,Romance,School,Teen,Male,Japanese,Liden Films,Romance,Supernatural,12,7.4
+Yamato Nadeshiko Shichi Henge,Comedy,Romance,School,Teen,Male,Japanese,Nippon Animation,Romance,Makeover,25,7.1
+Yatterman,Action,Comedy,Modern Japan,Teen,Male,Japanese,Tatsunoko Production,Heroes,Comedy,60,7.1
+Yona of the Dawn,Action,Fantasy,Ancient Korea,Teen,Female,Fictional,Studio Pierrot,Rebellion,Romance,24,8.3
+Yondemasu Yo Azazel-san,Comedy,Supernatural,Modern Japan,Adult,Male,Japanese,Production I.G,Demons,Comedy,13,7.4
+Yosuga no Sora,Comedy,Romance,School,Teen,Male,Japanese,feel.,Romance,Harem,12,6.8
+You and Me,Comedy,Slice of Life,School,Teen,Male,Japanese,J.C.Staff,School Life,Friendship,13,7.1
+You're Under Arrest,Comedy,Action,Modern Japan,Adult,Female,Japanese,Studio Deen,Police,Comedy,47,7.4
+Young Black Jack,Action,Drama,Historical,Adult,Male,Japanese,Tezuka Productions,Medicine,War,12,7.8
+Your Lie in April,Comedy,Romance,School,Teen,Male,Japanese,Kyoto Animation,Music,Romance,22,8.6
+Yowamushi Pedal,Sports,Comedy,School,Teen,Male,Japanese,TMS Entertainment,Cycling,Competition,38,7.8
+Yozakura Quartet,Comedy,Supernatural,Modern Japan,Teen,Male,Japanese,Nomad,Superpowers,School Life,12,7.1
+Yu Yu Hakusho,Action,Supernatural,Modern Japan,Teen,Male,Japanese,Pierrot,Martial Arts,Friendship,112,8.2
+Yu-Gi-Oh!,Action,Fantasy,Modern Japan,Teen,Male,Japanese,Studio Gallop,Card Games,Fantasy,224,7.6
+Yuki Yuna wa Yuusha de Aru,Action,Fantasy,Alternate World,Teen,Female,Japanese,Studio Gokumi,Heroes,Fantasy,12,7.4
+Yume-iro Patissiere,Comedy,Slice of Life,School,Teen,Female,Japanese,Pierrot,Baking,School Life,50,7.1
+Yuru Camp,Slice of Life,Outdoor,Modern Japan,Teen,Female,Japanese,C-Station,Camping,Friendship,12,8.2
+Yuyushiki,Comedy,Slice of Life,School,Teen,Female,Japanese,Kinema Citrus,School Life,Data Processing,12,7.1
+Z/X: Ignition,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Telecom Animation Film,Card Games,Fantasy,12,6.8
+Zan Sayonara Zetsubou Sensei,Comedy,Slice of Life,School,Teen,Male,Japanese,Shaft,Teaching,School Life,13,7.8
+Zankyou no Terror,Action,Thriller,Modern Japan,Teen,Male,Japanese,MAPPA,Terrorism,Society,11,7.9
+Zegapain,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Sunrise,Mecha,War,26,7.4
+Zenki,Action,Fantasy,Modern Japan,Teen,Male,Japanese,Studio Deen,Yokai,Adventure,51,7.1
+Zero no Tsukaima,Action,Fantasy,Alternate World,Teen,Male,Japanese,J.C.Staff,Magic,Adventure,49,7.4
+Zetman,Action,Sci-Fi,Modern Japan,Teen,Male,Japanese,TMS Entertainment,Superpowers,Science,13,7.1
+Zettai Karen Children,Action,Comedy,Modern Japan,Teen,Male,Japanese,SynergySP,Superpowers,Psychic Powers,52,7.4
+Zoids,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Xebec,Mecha,War,67,7.1
+Zombie Land Saga,Comedy,Idol,Modern Japan,Teen,Female,Japanese,MAPPA,Idols,Zombies,12,7.8
+Zombie-Loan,Action,Horror,Modern Japan,Teen,Male,Japanese,Xebec,Zombies,Horror,11,7.1
+18if,Comedy,Fantasy,Modern Japan,Teen,Male,Japanese,Gonzo,Dreams,Fantasy,13,6.8
+A.I.C.O. -Incarnation-,Sci-Fi,Action,Modern Japan,Teen,Female,Japanese,Bones,Science,Horror,12,7.1
+A3!,Comedy,Idol,Modern Japan,Teen,Male,Japanese,P.A. Works,Idols,Acting,12,7.1
+Accel World,Action,Sci-Fi,Modern Japan,Teen,Male,Japanese,Sunrise,Gaming,Virtual Reality,24,7.4
+Ace Attorney,Comedy,Mystery,Modern Japan,Adult,Male,Japanese,A-1 Pictures,Law,Mystery,24,7.8
+Ace of Diamond,Sports,Comedy,School,Teen,Male,Japanese,Madhouse,Baseball,School Life,126,8.1
+Active Raid,Action,Sci-Fi,Modern Japan,Adult,Male,Japanese,Production IMS,Superpowers,Police,12,7.1
+Actually I Am...,Comedy,Romance,School,Teen,Male,Japanese,TMS Entertainment,Romance,Vampires,13,7.1
+Aho-Girl,Comedy,Slice of Life,School,Teen,Female,Japanese,Diomedea,School Life,Idiocy,12,6.8
+Air Gear,Action,Sports,Modern Japan,Teen,Male,Japanese,Toei Animation,Inline Skating,Friendship,25,7.4
+Ajin,Action,Horror,Modern Japan,Teen,Male,Japanese,Poligoni Pictures,Immortality,Horror,26,7.8
+Akame ga Kill!,Action,Fantasy,Alternate World,Teen,Male,Japanese,White Fox,Assassins,War,24,7.8
+Akanesasu Shoujo,Comedy,Supernatural,Modern Japan,Teen,Female,Japanese,DandeLion Animation Studio,Time Travel,Friendship,12,7.1
+Alderamin on the Sky,Action,Fantasy,Alternate World,Teen,Male,Japanese,Madhouse,Magic,War,13,7.4
+Aldnoah.Zero,Action,Mecha,Alternate World,Teen,Male,Japanese,A-1 Pictures,War,Politics,24,7.9
+All Out!!,Sports,Comedy,School,Teen,Male,Japanese,Madhouse,Rugby,Friendship,25,7.5
+Altair: A Record of Battles,Action,Adventure,Historical,Teen,Male,Japanese,MAPPA,War,Politics,24,7.8
+Amagami SS,Comedy,Romance,School,Teen,Male,Japanese,AIC,Romance,School Life,26,7.4
+Amnesia,Reverse Harem,Fantasy,Alternate World,Teen,Female,Japanese,Brain's Base,Memory Loss,Romance,12,6.6
+And You Thought There Is Never a Girl Online?,Comedy,Romance,School,Teen,Male,Japanese,Project No.9,Gaming,Love,12,6.8
+Angel Beats!,Action,Supernatural,Afterlife,Teen,Male,Japanese,P.A. Works,Afterlife,Friendship,13,8.0
+Angel's 3Piece!,Slice of Life,Music,School,Teen,Male,Japanese,Project No.9,Music,Friendship,12,7.1
+Ange Vierge,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,Silver Link,Angels,Demons,12,6.5
+Anne-Happy,Comedy,Slice of Life,School,Teen,Female,Japanese,Silver Link,Happiness,Friendship,12,6.9
+Anti-Magic Academy: The 35th Test Platoon,Action,Fantasy,Alternate World,Teen,Male,Japanese,Silver Link,Magic,Guns,12,6.8
+AOKANA: Four Rhythm Across the Blue,Sports,Action,School,Teen,Male,Japanese,Gonzo,Flying,Competition,12,6.9
+Aquarion Logos,Mecha,Action,Alternate World,Teen,Male,Japanese,Satelight,Robots,Heroes,26,7.1
+Arpeggio of Blue Steel,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,Satelight,War,Submarines,12,7.3
+Assassination Classroom,Action,Comedy,School,Teen,Male,Japanese,Lerche,Assassins,Teachers,22,8.1
+Asterisk War,Action,Fantasy,Alternate World,Teen,Male,Japanese,A-1 Pictures,Magic,Guns,24,7.1
+Atelier Escha & Logy: Alchemists of the Dusk Sky,Fantasy,Adventure,Alternate World,Teen,Female,Japanese,Studio Gokumi,Alchemy,Fantasy,12,7.1
+Atom: The Beginning,Action,Sci-Fi,Alternate World,Teen,Male,Japanese,OLM,Robots,Science,12,7.1
+Attack on Titan,Action,Dark Fantasy,Post-Apocalyptic,Teen,Male,Fictional,Wit Studio,Survival,War,88,8.8
+Aura: Koga Maryuin's Last War,Action,Fantasy,Alternate World,Teen,Male,Japanese,AIC,Superpowers,Fantasy,1,7.1
+Autumn Sky,Comedy,Slice of Life,School,Teen,Female,Japanese,8bit,School Life,Friendship,12,6.8
